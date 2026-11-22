@@ -24,7 +24,7 @@ Consulta del aspirante
   -> 3. Clasifica la intención (9 clases) y obtiene su confianza
        ├─ caso_personal, o confianza < τ (0.50) ──────────────> DERIVA: folio + acuse
        └─ confianza ≥ τ y consulta frecuente
-            -> 4. Busca los 3 fragmentos más parecidos en docs/
+            -> 4. Busca los 3 fragmentos más parecidos en el documento de esa intención (o en todo docs/)
                  ├─ ninguno con similitud ≥ 0.35 ──────────────> DERIVA: folio + acuse
                  └─ 5. El LLM redacta con esos fragmentos
                       ├─ responde «NO_SE» ──────────────────────> DERIVA: folio + acuse
@@ -37,7 +37,7 @@ Botón «Esta respuesta no me sirvió» -> registra el reporte y abre un folio p
 
 1. **Clasificador de intención.** TF-IDF de palabras y de caracteres (3 a 5) con regresión logística, 9 intenciones y C = 2, como en la lámina 10. Decide si la consulta la responde el asistente o la turna al asesor, con el umbral **τ = 0.50**.
 2. **Asistente con RAG**, cuando la confianza es ≥ τ y no se trata de un caso personal:
-   - busca en `docs/*.md` por similitud coseno, con embeddings multilingües (`paraphrase-multilingual-MiniLM-L12-v2`);
+   - busca en el documento de `docs/` que corresponde a la intención (o en todos, si no hay uno) por similitud coseno, con embeddings multilingües (`paraphrase-multilingual-MiniLM-L12-v2`);
    - el LLM redacta la respuesta vía OpenRouter, sólo con los fragmentos recuperados, y **siempre cita la fuente**;
    - si los documentos no traen la respuesta, contesta que no sabe y deriva.
 3. **Derivación al asesor**, cuando la confianza es < τ, la intención es `caso_personal`, ningún documento es relevante o el LLM responde que no sabe. Genera un folio `ADM-AAAAMMDD-XXXXXX` y muestra un acuse.

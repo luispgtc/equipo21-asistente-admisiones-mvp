@@ -97,7 +97,7 @@ def _cargar_indice():
             if linea.startswith("# "):
                 titulo = linea[2:].strip()
             elif linea.startswith("## "):
-                if "".join(lineas).strip():
+                if seccion and "".join(lineas).strip():
                     fragmentos.append({"archivo": archivo.name, "titulo": titulo,
                                        "seccion": seccion, "texto": "\n".join(lineas).strip()})
                 seccion, lineas = linea[3:].strip(), []
@@ -108,14 +108,16 @@ def _cargar_indice():
     return modelo, fragmentos, vectores
 
 
-def buscar(consulta: str, k: int = 3):
+def buscar(consulta: str, intencion: str = "", k: int = 3):
+    """Si existe docs/<intencion>.md, busca solo en ese documento; si no, en todos."""
     global _indice
     if _indice is None:
         _indice = _cargar_indice()
     modelo, fragmentos, vectores = _indice
     q = modelo.encode([consulta], normalize_embeddings=True)[0]
     similitudes = vectores @ q  # coseno, porque los vectores están normalizados
-    orden = similitudes.argsort()[::-1][:k]
+    candidatos = [i for i, f in enumerate(fragmentos) if f["archivo"] == f"{intencion}.md"] or range(len(fragmentos))
+    orden = sorted(candidatos, key=lambda i: -similitudes[i])[:k]
     return [{**fragmentos[i], "similitud": float(similitudes[i])} for i in orden]
 
 
@@ -180,7 +182,7 @@ def atender(texto: str, sesion: str = "") -> dict:
     elif confianza < TAU:
         salida["motivo"] = "confianza_menor_a_tau"
     else:
-        fragmentos = [f for f in buscar(consulta) if f["similitud"] >= SIMILITUD_MINIMA]
+        fragmentos = [f for f in buscar(consulta, intencion) if f["similitud"] >= SIMILITUD_MINIMA]
         if not fragmentos:
             salida["motivo"] = "sin_documento"
         elif not os.getenv("OPENROUTER_API_KEY"):
