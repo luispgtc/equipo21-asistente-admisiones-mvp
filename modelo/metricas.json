@@ -1,0 +1,14 @@
+{
+  "origen": "mock-dataset del MVP (regenerado), NO es el de la PoC",
+  "n_total": 1053,
+  "plantillas": 90,
+  "tau": 0.5,
+  "n_prueba": 205,
+  "f1_macro": 0.483,
+  "accuracy": 0.498,
+  "roc_auc_ovr": 0.897,
+  "top2": 0.698,
+  "autoservicio": 0.176,
+  "acierto_de_lo_respondido": 0.944,
+  "casos_personales_derivados": 1.0
+}

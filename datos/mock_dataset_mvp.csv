@@ -1,0 +1,1054 @@
+plantilla,canal,intencion,texto
+r01,correo,requisitos,Trabajo tiempo completo y ¿Cuáles son los requisitos de admisión para la maestría? Mi matrícula es <matricula>.
+r01,whatsapp,requisitos,Una pregunta: ¿Cuales son los requisitos de admision para la maestria? Quedo atento.
+r01,formulario,requisitos,"Soy <nombre>, aspirante. ¿Cuáles son los requisitos de admisión para la maestría? Gracias."
+r01,correo,requisitos,Me enteré por redes. ¿Cuáles son los requisitos de admisión para la maestría? mi cel <telefono>
+r01,correo,requisitos,"Buen día, me llamo <nombre>. ¿Cuáles son los requisitos de admisión para la maestría? Gracias."
+r01,whatsapp,requisitos,Trabajo tiempo completo y ¿Cuales son los requisitos de admision para la maestria? mi cel <telefono>
+r01,formulario,requisitos,me enteré por redes. cuáles son los requisitos de admisión para la maestría
+r01,formulario,requisitos,Me enteré por redes. ¿Cuáles son los requisitos de admisión para la maestría? Mi correo es <correo>
+r01,correo,requisitos,¿Cuáles son los requisitos de admisión para la maestría? Mi correo es <correo>
+r01,correo,requisitos,"Hola, ¿Cuáles son los requisitos de admisión para la maestría? Quedo atento."
+r01,formulario,requisitos,"Hola, ¿Cuáles son los requisitos de admisión para la maestría?"
+r01,formulario,requisitos,Trabajo tiempo completo y ¿Cuáles son los requisitos de admisión para la maestría? Gracias.
+r02,correo,requisitos,"Soy <nombre>, aspirante. ¿Qué documentos necesito para inscribirme al posgrado? Mi correo es <correo>"
+r02,whatsapp,requisitos,"Soy <nombre>, aspirante. ¿Que documentos necesito para inscribirme al posgrado? Mi correo es <correo>"
+r02,correo,requisitos,Una pregunta: ¿Qué documentos necesito para inscribirme al posgrado?
+r02,formulario,requisitos,"Disculpe, ¿Qué documentos necesito para inscribirme al posgrado? Mi matrícula es <matricula>."
+r02,formulario,requisitos,"Disculpe, ¿Qué documentos necesito para inscribirme al posgrado? Saludos, <nombre>."
+r02,formulario,requisitos,"Hola, ¿Qué documentos necesito para inscribirme al posgrado? Gracias."
+r02,formulario,requisitos,Me enteré por redes. ¿Qué documentos necesito para inscribirme al posgrado? Quedo atento.
+r02,whatsapp,requisitos,"disculpe, que documentos necesito para inscribirme al opsgrado saludos, ana lopez."
+r02,whatsapp,requisitos,Buenas tardes. ¿Que odcumentos necesito para inscribirme al posgrado? Mi matricula es <matricula>.
+r02,formulario,requisitos,"Disculpe, ¿Qué documentos necesito para inscribirme al posgrado?"
+r02,whatsapp,requisitos,trabajo tiempo completo y qué documentos necesito para inscribirme al posgrado quedo atento.
+r03,formulario,requisitos,"Soy alumno, ¿Piden examen de admisión o algún puntaje mínimo?"
+r03,correo,requisitos,Trabajo tiempo completo y ¿Piden examen de admisión o algún puntaje mínimo?
+r03,formulario,requisitos,Buenas tardes. ¿Piden examen de admisión o algún puntaje mínimo? Gracias.
+r03,whatsapp,requisitos,"¿Piden examen de admision o algun puntaje minimo? Saludos, <nombre>."
+r03,correo,requisitos,Me entere por redes. ¿Piden examen de admision o algun puntaje minimo? Quedo atento.
+r03,whatsapp,requisitos,"soy alumno, pide nexamen de admisión o algún puntaje mínimo gracias."
+r03,formulario,requisitos,"¿Piden examen de admisión o algún puntaje mínimo? Saludos, <nombre>."
+r03,formulario,requisitos,"Buen día, me llamo <nombre>. ¿Piden examen de admisión o algún puntaje mínimo? Quedo atento."
+r03,whatsapp,requisitos,"Soy alumno, P¿iden examen de admision o algun puntaje minimo? Mi matricula es <matricula>."
+r03,whatsapp,requisitos,"Hola, ¿Piden examen de admision o algun puntaje minimo? Gracias."
+r03,formulario,requisitos,"Soy alumno, ¿Piden examen de admisión o algún puntaje mínimo? Gracias."
+r03,whatsapp,requisitos,Trabajo tiempo completo y ¿Piden examen de admisión o algún puntaje mínimo? Mi correo es <correo>
+r04,correo,requisitos,"Soy <nombre>, aspirante. ¿Necesito título de licenciatura o basta con la carta de pasante? Quedo atento."
+r04,correo,requisitos,Trabajo tiempo completo y ¿Necesito título de licenciatura o basta con la carta de pasante? Mi correo es <correo>
+r04,whatsapp,requisitos,"disculpe, necesito título de licenciatura o basta con la carta de pasante gracias."
+r04,formulario,requisitos,¿Necesito título de licenciatura o basta con la carta de pasante? Gracias.
+r04,whatsapp,requisitos,"Soy alumno, ¿Necesito título de licenciatura o basta con la carta de pasante ?Quedo atento."
+r04,correo,requisitos,"Soy <nombre>, aspirante. ¿Necesito título de licenciatura o basta con la carta de pasante? mi cel <telefono>"
+r04,formulario,requisitos,"Soy alumno, ¿Necesito título de licenciatura o basta con la carta de pasante? Saludos, <nombre>."
+r04,formulario,requisitos,"Soy <nombre>, aspirante. ¿Necesito título de licenciatura o basta con la carta de pasante? Gracias."
+r04,whatsapp,requisitos,"hola, necesito titulo de licenciatura o basta con la carta de pasante quedo atento."
+r04,formulario,requisitos,Trabajo tiempo completo y ¿Necesito titulo de licenciatura o basta con la crata de pasante? Mi correo es <correo>
+r04,whatsapp,requisitos,trabajo tiempo completo y necesito título de licenciatura o basta con la carta de pasante mi correo es <correo>
+r05,formulario,requisitos,"Hola, ¿Qué nivel de inglés me piden para entrar?"
+r05,whatsapp,requisitos,me enteré por redes. qué nivel de inglés me piden para entrar mi matrícula es <matricula>.
+r05,formulario,requisitos,"Disculpe, ¿Qué nivel de inglés me piden para entrar? Mi matrícula es <matricula>."
+r05,whatsapp,requisitos,"buen día, me llamo carlos pérez. qué nivel de inglés me piden para entrar mi correo es <correo>"
+r05,formulario,requisitos,¿Qué nivel de inglés me piden para entrar? Gracias.
+r05,whatsapp,requisitos,Trabajo tiempo completo y ¿Que nivel de ingles me piden para entrar? Mi matricula es <matricula>.
+r05,whatsapp,requisitos,una pregunta: qué nivel de inglés me piden para entrar
+r05,whatsapp,requisitos,"disculpe, q nivel de ingles me piden para entrar mi matricula es <matricula>."
+r05,correo,requisitos,"Soy <nombre>, aspirante. ¿Qué nivel de inglés me piden para entrar? Gracias."
+r05,formulario,requisitos,"Soy alumno, ¿Qué nivel de inglés me piden para entrar? Mi matrícula es <matricula>."
+r05,whatsapp,requisitos,Una pregunta: ¿Que nivel de ingles me piden para netrar? Mi correo es <correo>
+r05,formulario,requisitos,"soy alumno, qué nivel de inglés me piden para entrar"
+r06,formulario,requisitos,me enteré por redes. tengo que presentar cartas de recomendación
+r06,correo,requisitos,"Soy <nombre>, aspirante. ¿Tengo que presentar cartas de recomendacion? Gracias."
+r06,correo,requisitos,"Disculpe, ¿Tengo que presentar cartas de recomendación? Quedo atento."
+r06,whatsapp,requisitos,"soy mariana ruiz, aspirante. tengo que presentar cartas de recomendacion quedo atento."
+r06,formulario,requisitos,una pregunta: tengo que presentar cartas de recomendación quedo atento.
+r06,formulario,requisitos,"Buen día, me llamo <nombre>. ¿Tengo que presentar cartas de recomendación? Gracias."
+r06,formulario,requisitos,Me enteré por redes. ¿Tengo que presentar cartas de recomendación? Gracias.
+r06,whatsapp,requisitos,"soy alumno, tengo que presentar cartas de recomendación saludos, ana lópez."
+r06,correo,requisitos,"Soy <nombre>, aspirante. ¿Tengo que presentar cartas de recomendación?"
+r06,correo,requisitos,"Me enteré por redes. ¿Tengo que presentar cartas de recomendación? Saludos, <nombre>."
+r06,correo,requisitos,¿Tengo que presentar cartas de recomendación? mi cel <telefono>
+r07,formulario,requisitos,trabajo tiempo completo  ycual es el promedio minimo q piden para ser admitido gracias.
+r07,formulario,requisitos,"soy mariana ruiz, aspirante. cuál es el promedio mínimo q piden para ser admitido mi correo es <correo>"
+r07,formulario,requisitos,Buenas tardes. ¿Cuál es el promedio mínimo que piden para ser admitido?
+r07,whatsapp,requisitos,Una preugnta: ¿Cuál es el promedio mínimo q piden para ser admitido? Gracias.
+r07,correo,requisitos,"Disculpe, ¿Cuál es el promedio mínimo que piden para ser admitido? mi cel <telefono>"
+r07,correo,requisitos,"Soy alumno, ¿Cuál es el promedio mínimo que piden para ser admitido? Mi correo es <correo>"
+r07,whatsapp,requisitos,me enteré por redes. cuál es el promedio mínimo  qpiden para ser admitido
+r07,formulario,requisitos,Buenas tardes. ¿Cuál es el promedio mínimo que piden para ser admitido? Gracias.
+r07,formulario,requisitos,"Soy <nombre>, aspirante. ¿Cuál es el promedio mínimo que piden para ser admitido? Mi correo es <correo>"
+r07,formulario,requisitos,"Soy <nombre>, aspirante. ¿Cuál es el promedio mínimo que piden para ser admitido? Saludos, <nombre>."
+r07,formulario,requisitos,Me enteré por redes. ¿Cuál es el promedio mínimo que piden para ser admitido?
+r07,formulario,requisitos,"Buenas tardes. ¿Cuál es el promedio mínimo que piden para ser admitido? Saludos, <nombre>."
+r08,whatsapp,requisitos,"Disculpe, ¿Qué necesito entregar para aplicar a la maestría en línea? Gracias."
+r08,formulario,requisitos,"Buen día, me llamo <nombre>. ¿Qué necesito entregar para aplicar a la maestría en línea? Mi matrícula es <matricula>."
+r08,correo,requisitos,Buenas tardes. ¿Qué necesito entregar para aplicar a la maestría en línea? Gracias.
+r08,formulario,requisitos,Una pregunta: ¿Qué necesito entregar para aplicar a la maestría en línea? Quedo atento.
+r08,correo,requisitos,"buen día, me llamo carlos pérez. qué necesito entregar par aaplicar a la maestría en línea saludos, ana lópez."
+r08,correo,requisitos,¿Qué necesito entregar para aplicar a la maestría en línea? Quedo atento.
+r08,correo,requisitos,"Buen día, me llamo <nombre>. ¿Qué necesito entregar para aplicar a la maestría en línea? Gracias."
+r08,whatsapp,requisitos,¿Qué necesito entregar para aplicar a la maestría en línea?
+r08,whatsapp,requisitos,"Buen dia, me llamo <nombre>. ¿Que necesito entregar para aplicar a la maestria en linea? Mi correo es <correo>"
+r08,correo,requisitos,"¿Qué necesito entregar para aplicar a la maestría en línea? Saludos, <nombre>."
+r08,correo,requisitos,"Una pregunta: ¿Qué necesito entregar para aplicar a la maestría en línea? Saludos, <nombre>."
+r09,whatsapp,requisitos,"Disculpe, ¿Mep iden entrevista como parte del proceso de admision? Mi matricula es <matricula>."
+r09,whatsapp,requisitos,"Soy alumno, ¿Me piden entrevista como part edel proceso de admisión? Mi matrícula es <matricula>."
+r09,correo,requisitos,"Soy alumno, ¿Me piden entrevista como parte del proceso de admisión? Gracias."
+r09,correo,requisitos,"Soy alumno, ¿Me piden entrevista como parte del proceso de admisión?"
+r09,whatsapp,requisitos,"Buen dia, me llamo <nombre>. ¿Me piden entrevista como parte del proceso de admisio?n mi cel <telefono>"
+r09,whatsapp,requisitos,"Soy <nombre>, aspirante. ¿Me piden entrevista coom parte del proceso de admision? Saludos, <nombre>."
+r09,correo,requisitos,"Hola, ¿Me piden entrevista como parte del proceso de admisión? Quedo atento."
+r09,formulario,requisitos,"Soy <nombre>, aspirante. ¿Me piden entrevista como parte del proceso de admisión?"
+r09,correo,requisitos,"Disculpe, ¿Me piden entrevista como parte del proceso de admisión? Mi matrícula es <matricula>."
+r09,formulario,requisitos,"Soy <nombre>, aspirante. ¿Me piden entrevista como parte del proceso de admisión? mi cel <telefono>"
+r09,formulario,requisitos,¿Me piden entrevista como parte del proceso de admisión? Mi matrícula es <matricula>.
+r09,correo,requisitos,Me enteré por redes. ¿Me piden entrevista como parte del proceso de admisión? Mi correo es <correo>
+r10,formulario,requisitos,Una pregunta: ¿Puedo aplicar si mi licenciatura es de otra área? Mi matrícula es <matricula>.
+r10,correo,requisitos,Una pregunta: ¿Puedo aplicar si mi licenciatura es de otra área? Quedo atento.
+r10,formulario,requisitos,"disculpe, puedo aplicar si mi licenciatura es de otra area mi matricula es <matricula>."
+r10,whatsapp,requisitos,"Soy alumno, ¿Puedo alpicar si mi licenciatura es de otra área? Gracias."
+r10,correo,requisitos,"buen día, me llamo carlos pérez. puedo aplicar si mi licenciatura es de otra área mi cel <telefono>"
+r10,correo,requisitos,"buen día, me llamo carlos pérez. puedo aplicar si mi liecnciatura es de otra área mi cel <telefono>"
+r10,formulario,requisitos,"Soy <nombre>, aspirante. ¿Puedo aplicar si mi licenciatura es de otra área? Mi matrícula es <matricula>."
+r10,correo,requisitos,"Trabajo tiempo completo y ¿Puedo aplicar si mi licenciatura es de otra área? Saludos, <nombre>."
+r10,formulario,requisitos,Me enteré por redes. ¿Puedo aplicar si mi licenciatura es de otra área? Quedo atento.
+r10,formulario,requisitos,Una pregunta: ¿Puedo aplicar si mi licenciatura es de otra área?
+r10,formulario,requisitos,Una pregunta: ¿Puedo aplicar si mi licenciatura es de otra área? Gracias.
+c01,whatsapp,costos,"soy mariana ruiz, aspirante. cuanto cuesta la maestria completa quedo atento."
+c01,whatsapp,costos,"Soy alumno, ¿Cuanto cuesta la maestria completa?"
+c01,correo,costos,"Buenas tardes. ¿Cuánto cuesta la maestría completa? Saludos, <nombre>."
+c01,correo,costos,"Soy alumno, ¿Cuánto cuesta la maestría completa? Mi matrícula es <matricula>."
+c01,correo,costos,"¿Cuánto cuesta la maestría completa? Saludos, <nombre>."
+c01,whatsapp,costos,"Soy <nombre>, aspirante. ¿Cuanto cuesta la maestria completa? Mi matricula es <matricula>."
+c01,formulario,costos,"Buen día, me llamo <nombre>. ¿Cuánto cuesta la maestría completa?"
+c01,whatsapp,costos,"Disculpe, ¿Cuanto cuesta la maestria completa? Saludos, <nombre>."
+c01,correo,costos,¿Cuánto cuesta la maestría completa? Gracias.
+c01,whatsapp,costos,¿Cuánto cuesta la maesrtía completa? Mi matrícula es <matricula>.
+c01,formulario,costos,Trabajo tiempo completo y ¿Cuánto cuesta la maestría completa? Gracias.
+c01,formulario,costos,Buenas tardes. ¿Cuánto cuesta la maestría completa? Mi matrícula es <matricula>.
+c02,correo,costos,"Me enteré por redes. ¿Cuál es el costo por materia? Saludos, <nombre>."
+c02,formulario,costos,"Buenas tardes. ¿Cuál es el costo por materia? Saludos, <nombre>."
+c02,formulario,costos,"Hola, ¿Cuál es el costo por materia?"
+c02,whatsapp,costos,Me entere por redes. ¿Cual es el costo por materia? mi cel <telefono>
+c02,formulario,costos,"Disculpe, ¿Cuál es el costo por materia? Saludos, <nombre>."
+c02,correo,costos,"Disculpe, ¿Cuál es el costo por materia? Quedo atento."
+c02,correo,costos,¿Cuál es el costo por materia? Gracias.
+c02,correo,costos,Una pregunta: ¿Cuál es el costo por materia? Mi matrícula es <matricula>.
+c02,formulario,costos,"Buen día, me llamo <nombre>. ¿Cuál es el costo por materia? Gracias."
+c02,whatsapp,costos,rTabajo tiempo completo y ¿Cuál es el costo por materia? Mi matrícula es <matricula>.
+c02,correo,costos,buenas tardes. cual es el costo por mtaeria mi correo es <correo>
+c02,formulario,costos,Una pregunta: ¿Cuál es el costo por materia? Quedo atento.
+c03,whatsapp,costos,trabajo tiempo completo y tienen becas o descuentos para egresados mi matrícula es <matricula>.
+c03,whatsapp,costos,Una pregunta: ¿Tienen becas o descuentos para egresados? Mi matrícula es <matricula>.
+c03,formulario,costos,Me enteré por redes. ¿Tienen becas o descuentos para egresados? Mi matrícula es <matricula>.
+c03,whatsapp,costos,"buen dia, me llamo carlos perez. tienen becsa o descuentos para egresados mi matricula es <matricula>."
+c03,correo,costos,Buenas tardes. ¿Tienen becas o descuentos para egresados? Quedo atento.
+c03,correo,costos,"soy mariana ruiz ,aspirante. tienen becas o descuentos para egresados"
+c03,whatsapp,costos,"Disculpe, ¿Tienen becas o descuentos para egresados? Mi matricula es <matricula>."
+c03,whatsapp,costos,"Trabajo tiempo completo y ¿Tienen becas o descuentos para egresados? Saludos, <nombre>."
+c03,whatsapp,costos,tienen becas o descuentos para egresados gracias.
+c03,correo,costos,"Hola, ¿Tienen becas o descuentos para egresados? mi cel <telefono>"
+c03,correo,costos,Trabajo tiempo completo y ¿Tienen becas o descuentos para egresados? M icorreo es <correo>
+c04,correo,costos,"Disculpe, ¿Se puede pagar en mensualidades? Quedo atento."
+c04,correo,costos,"Hola, ¿Se puede pagar en mensualidades? Quedo atento."
+c04,whatsapp,costos,"Hola, ¿Se puede pagar en mensualidades? mi cel <telefono>"
+c04,whatsapp,costos,"Soy alumno, ¿Se puede pagar en mensualidades? Gracias."
+c04,correo,costos,Buenas tardes. ¿Se puede pagar en mensualidades? Mi correo es <correo>
+c04,formulario,costos,"Soy alumno, ¿Se puede pagar en mensualidades? Quedo atento."
+c04,formulario,costos,"Hola, ¿Se puede pagar en mensualidades? Saludos, <nombre>."
+c04,correo,costos,"Hola, ¿Se puede pagar en mensualidades? Mi matrícula es <matricula>."
+c04,correo,costos,"Una pregunta: ¿Se puede pagar en mensualidades? Saludos, <nombre>."
+c04,formulario,costos,"Buen día, me llamo <nombre>. ¿Se puede pagar en mensualidades? Mi matrícula es <matricula>."
+c04,whatsapp,costos,"buen día, me llamo carlos pérez. se puede pagar en mensualidades mi matrícula es <matricula>."
+c04,whatsapp,costos,"Buen día, me llamo <nombre>. ¿Se puede pagar en mensualidades? Mim atrícula es <matricula>."
+c05,formulario,costos,Buenas tardes. ¿Cuánto es la cuota de inscripción?
+c05,correo,costos,"Soy alumno, ¿Cuánto es la cuota de inscripción? Quedo atento."
+c05,whatsapp,costos,"Disculpe, ¿Cuanto es la cuota de inscripcion? mi cel <telefono>"
+c05,formulario,costos,"Hola, ¿Cuánto es la cuota de inscripción? Quedo atento."
+c05,correo,costos,"Buen dia, me llamo <nombre>. ¿Cuanto es la cuota de inscripcion? mi cel <telefono>"
+c05,formulario,costos,"Buen día, me llamo <nombre>. ¿Cuánto es la cuota de inscripción? Mi matrícula es <matricula>."
+c05,whatsapp,costos,"trabajo tiempo completo y cuánto es la cuota de inscripción saludos, ana lópez."
+c05,whatsapp,costos,Trabajo tiempo completo y ¿Cuánto es la cuota de inscripción? Gracias.
+c05,formulario,costos,Trabajo tiempo completo y ¿Cuánto es la cuota de inscripción? Mi correo es <correo>
+c05,formulario,costos,"Buen día, me llamo <nombre>. ¿Cuánto es la cuota de inscripción?"
+c05,whatsapp,costos,"Me enteré por redes. ¿Cuánto se la cuota de inscripción? Saludos, <nombre>."
+c05,correo,costos,"Hola, ¿Cuánto es la cuota de inscripción? Saludos, <nombre>."
+c06,correo,costos,Buenas tardes. ¿Qué porcentaje de beca dan por convenio empresarial? Quedo atento.
+c06,whatsapp,costos,"Disculpe, ¿Qué porcentaje de beca dan por convenio empresarial? mi cel <telefono>"
+c06,formulario,costos,Una pregunta: ¿Qué porcentaje de beca dan por convenio empresarial? Quedo atento.
+c06,formulario,costos,Buenas tardes. ¿Qué porcentaje de beca dan por convenio empresarial? Gracias.
+c06,whatsapp,costos,"Soy alumno, ¿Qué porcentaje de beca dan por convenio empresarial? Mi correo es <correo>"
+c06,whatsapp,costos,Una pregunta: ¿Que porcentaje de beca dan por convenio empresarial? Gracias.
+c06,correo,costos,"soy mariana ruiz, aspirante. q porcentaje de beca dan por convenio empresarial quedo atento."
+c06,formulario,costos,Me enteré por redes. ¿Qué porcentaje de beca dan por convenio empresarial? mi cel <telefono>
+c06,formulario,costos,"Una pregunta: ¿Qué porcentaje de beca dan por convenio empresarial? Saludos, <nombre>."
+c06,formulario,costos,"disculpe, qué porcentaje de beca dan por convenio empresarial saludos, ana lópez."
+c06,whatsapp,costos,una pregunta: que porcentaje deb eca dan por convenio empresarial quedo atento.
+c06,formulario,costos,¿Qué porcentaje de beca dan por convenio empresarial? Quedo atento.
+c07,formulario,costos,"Disculpe, ¿Aceptan pago con tarjeta o solo transferencia? Saludos, <nombre>."
+c07,whatsapp,costos,"Soy alumno, ¿Aceptan pago con tarjeta o solo transferencia? mi cel <telefono>"
+c07,whatsapp,costos,"Trabajo tiempo completo y ¿Aceptan pago con tarjeta o solo transferencia? Saludos, <nombre>."
+c07,whatsapp,costos,"Soy alumno, ¿Acpetan pago con tarjeta o solo transferencia? Mi matricula es <matricula>."
+c07,whatsapp,costos,"Una pregunta: ¿Aceptan pago con trajeta o solo transferencia? Saludos, <nombre>."
+c07,correo,costos,Buenas tardes. ¿Aceptan pago con tarjeta o solo transferencia? Gracias.
+c07,correo,costos,"Buen día, me llamo <nombre>. ¿Aceptan pago con tarjeta o solo transferencia? Saludos, <nombre>."
+c07,formulario,costos,"Soy <nombre>, aspirante. ¿Aceptan pago con tarjeta o solo transferencia? mi cel <telefono>"
+c07,correo,costos,"Soy <nombre>, aspirante. ¿Aceptan pago con tarjeta o solo transferencia? Quedo atento."
+c07,correo,costos,"Disculpe, ¿Aceptan pago con tarjeta o solo transferencia? Mi correo es <correo>"
+c07,formulario,costos,Una pregunta: ¿Aceptan pago con tarjeta o solo transferencia? Gracias.
+c08,correo,costos,Buenas tardes. ¿Hay financiamiento para pagar el posgrado? Mi matrícula es <matricula>.
+c08,correo,costos,Me enteré por redes. ¿Hay financiamiento para pagar el posgrado? mi cel <telefono>
+c08,formulario,costos,"Buen dia, me llamo <nombre>. ¿Hay financiamiento para pagar el posgrado? mi cel <telefono>"
+c08,correo,costos,"Buen día, me llamo <nombre>. ¿Hay financiamiento para pagar el posgrado? Mi correo es <correo>"
+c08,whatsapp,costos,Me entere por redes. ¿Hay financiaimento para pagar el posgrado?
+c08,correo,costos,¿Hay financiamiento para pagar el posgrado? Mi correo es <correo>
+c08,formulario,costos,"Trabajo tiempo completo y ¿Hay financiamiento para pagar el posgrado? Saludos, <nombre>."
+c08,whatsapp,costos,"Hola, ¿Hay financiamiento para pagar el opsgrado? mi cel <telefono>"
+c08,whatsapp,costos,Buenas tardes. ¿Hay financiamiento para pagar el posgrado? Mi matricula es <matricula>.
+c08,whatsapp,costos,"Soy <nombre> aRuiz, aspirante. ¿Hay financiamiento para pagar el posgrado? Quedo atento."
+c08,whatsapp,costos,trabajo tiempo completo y hay financiamiento para pagar el posgrado mi matrícula es <matricula>.
+c08,whatsapp,costos,"Soy alumno, ¿Hay financiamiento para pagare l posgrado?"
+c09,whatsapp,costos,"Buen dia, me llamo <nombre>. ¿Cuanto cuesta cada periodo?"
+c09,formulario,costos,Buenas tardes. ¿Cuánto cuesta cada periodo?
+c09,whatsapp,costos,"soy alumno, cuanto cuesta cada periodo"
+c09,formulario,costos,"Disculpe, ¿Cuánto cuesta cada periodo? Gracias."
+c09,formulario,costos,"Buen día, me llamo <nombre>. ¿Cuánto cuesta cada periodo? Gracias."
+c09,whatsapp,costos,me enteré por redes. cuánto cuesta cada periodo
+c09,whatsapp,costos,"soy alumno, cuanto cuesta cada periodo saludos, ana loepz."
+c09,whatsapp,costos,"soy mariana ruiz, aspirante. cuánto cuesta cada periodo"
+c09,formulario,costos,Trabajo tiempo completo y ¿Cuánto cuesta cada periodo? Gracias.
+c09,whatsapp,costos,Me enteré por redes. ¿Cuánto ucesta cada periodo? Gracias.
+c09,correo,costos,Una pregunta: ¿Cuánto cuesta cada periodo? Mi matrícula es <matricula>.
+c09,formulario,costos,Buenas tardes. ¿Cuánto cuesta cada periodo? Quedo atento.
+c10,whatsapp,costos,trabajo tiempo completo y cómo solicito una beca académica mi matrícula es <matricula>.
+c10,correo,costos,Me enteré por redes. ¿Cómo solicito una beca académica? Mi correo es <correo>
+c10,correo,costos,"Soy alumno, ¿Cómo solicito una beca académica?"
+c10,whatsapp,costos,una pregunta: cómo solicito una beca académica quedo atento.
+c10,whatsapp,costos,Una pregunta: ¿Cómo solicito una beca académica? Gracias.
+c10,correo,costos,"Soy <nombre>, aspirante. ¿Cómo solicito una beca académica? Gracias."
+c10,correo,costos,"Disculpe, ¿Cómo solicito una beca académica? Mi correo es <correo>"
+c10,correo,costos,Trabajo tiempo completo y ¿Cómo solicito una beca académica? Gracias.
+c10,formulario,costos,Una pregunta: ¿Cómo solicito una beca académica? Mi correo es <correo>
+c10,correo,costos,"Buen día, me llamo <nombre>. ¿Cómo solicito una beca académica? Mi correo es <correo>"
+c10,formulario,costos,"buen dia, me llamo carlos perez. como solicito una beca academica mi cel <telefono>"
+c10,formulario,costos,¿Cómo solicito una beca académica? Gracias.
+p01,correo,plan_estudios,"Trabajo tiempo completo y ¿Qué materias lleva la maestría? Saludos, <nombre>."
+p01,correo,plan_estudios,"Hola, ¿Qué materias lleva la maestría?"
+p01,formulario,plan_estudios,Trabajo tiempo completo y ¿Qué materias lleva la maestría?
+p01,formulario,plan_estudios,Trabajo tiempo completo y ¿Qué materias lleva la maestría? Gracias.
+p01,correo,plan_estudios,Una pregunta: ¿Qué materias lleva la maestría?
+p01,formulario,plan_estudios,Una pregunta: ¿Qué materias lleva la maestría? Mi correo es <correo>
+p01,correo,plan_estudios,Una pregunta: ¿Qué materias lleva la maestría? Mi matrícula es <matricula>.
+p01,formulario,plan_estudios,"Buen día, me llamo <nombre>. ¿Qué materias lleva la maestría? Gracias."
+p01,correo,plan_estudios,¿Qué materias lleva la maestría? mi cel <telefono>
+p01,formulario,plan_estudios,Me enteré por redes. ¿Qué materias lleva la maestría? Gracias.
+p01,whatsapp,plan_estudios,"Disculpe, ¿Qué materias lleva la maestría? Mi matríclua es <matricula>."
+p01,whatsapp,plan_estudios,trabajo tiempo completo y qué materias lleva la maestría
+p02,whatsapp,plan_estudios,cuantos creditos tiene el plan de estudios mi correo es <correo>
+p02,formulario,plan_estudios,Una pregunta: ¿Cuántos créditos tiene el plan de estudios? Quedo atento.
+p02,formulario,plan_estudios,"Hola, ¿Cuántos créditos tiene el plan de estudios? mi cel <telefono>"
+p02,whatsapp,plan_estudios,"Buen dia, me llamo <nombre>. ¿Cuantos creditos tiene el plan de estudios? Mi correo es <correo>"
+p02,correo,plan_estudios,"Buenas tardes. ¿Cuántos créditos tiene el plan de estudios? Saludos, <nombre>."
+p02,whatsapp,plan_estudios,¿Cuántos créditos tiene el plan de estudios? Quedo atento.
+p02,correo,plan_estudios,una pregunta: cuantos creditos tiene el plan de estudios mi correo es <correo>
+p02,formulario,plan_estudios,Una pregunta: ¿Cuantos creditos tiene el plan de estudios? mi cel <telefono>
+p02,whatsapp,plan_estudios,"Hola, ¿Cuantos creditos tiene el plan de estudios? Mi correo es <correo>"
+p02,correo,plan_estudios,"Buen día, me llamo <nombre>. ¿Cuántos créditos tiene el plan de estudios? Saludos, <nombre>."
+p02,formulario,plan_estudios,"Una pregunta: ¿Cuantos creditos tiene el plan de estudios? Saludos, <nombre>."
+p02,correo,plan_estudios,Trabajo tiempo completo y ¿Cuántos créditos tiene el plan de estudios? mi cel <telefono>
+p03,formulario,plan_estudios,"Soy alumno, ¿Cuánto dura el programa? Quedo atento."
+p03,correo,plan_estudios,Trabajo tiempo completo y ¿Cuánto dura el programa? mi cel <telefono>
+p03,whatsapp,plan_estudios,Buenas tardes. ¿Cuánto dura el programa? Quedo atenot.
+p03,whatsapp,plan_estudios,"una pregunta: cuánto dura el programa saludos, ana lópez."
+p03,whatsapp,plan_estudios,"disculpe, cuanot dura el programa"
+p03,correo,plan_estudios,"Disculpe, ¿Cuánto dura el programa? Saludos, <nombre>."
+p03,whatsapp,plan_estudios,"Hola, ¿Cuánto dura el programa? mi cel <telefono>"
+p03,correo,plan_estudios,"Buen día, me llamo <nombre>. ¿Cuánto dura el programa? Saludos, <nombre>."
+p03,formulario,plan_estudios,Una pregunta: ¿Cuánto dura el programa?
+p03,formulario,plan_estudios,Una pregunta: ¿Cuánto dura el programa? Gracias.
+p03,correo,plan_estudios,"Soy <nombre>, aspirante. ¿Cuánto dura el programa? mi cel <telefono>"
+p03,correo,plan_estudios,Una pregunta: ¿Cuanot dura el programa? Quedo atento.
+p04,whatsapp,plan_estudios,Buenas tardes. ¿Tienen materias optativas o especialidades? mi cel <telefono>
+p04,correo,plan_estudios,"Buen día, me llamo <nombre>. ¿Tienen materias optativas o especialidades? Mi correo es <correo>"
+p04,correo,plan_estudios,Una pregunta: ¿Tienen materias optativas o especialidades?
+p04,whatsapp,plan_estudios,Una pregunta: ¿Tienen materias optativas o especialidades? Gracias.
+p04,whatsapp,plan_estudios,Buenas tardes. ¿Tienen materias optativas o especialidaeds?
+p04,correo,plan_estudios,¿Tienen materias optativas o especialidades? Mi matrícula es <matricula>.
+p04,correo,plan_estudios,"Soy alumno, ¿Tienen materias optativas o especialidades? Mi matrícula es <matricula>."
+p04,whatsapp,plan_estudios,"Disculpe, ¿Tienen materias optativas o especialidades? mi cel <telefono>"
+p04,formulario,plan_estudios,"Soy alumno, ¿Tienen materias optativas o especialidades? Saludos, <nombre>."
+p04,formulario,plan_estudios,"Soy <nombre>, aspirante. ¿Tienen materias optativas o especialidades?"
+p04,formulario,plan_estudios,Trabajo tiempo completo y ¿Tienen materias optativas o especialidades? Mi correo es <correo>
+p04,formulario,plan_estudios,"soy mariana ruiz, aspirante. tienen materias optativas o especialidades saludos, ana lopez."
+p05,whatsapp,plan_estudios,trabajo tiempo completo y el plan incluye proyecto final o tesis gracias.
+p05,correo,plan_estudios,¿El plan incluye proyecto final o tesis? Mi correo es <correo>
+p05,whatsapp,plan_estudios,"disculpe, el plan incluye proyecto final o tesis saludos, ana lópez."
+p05,formulario,plan_estudios,Buenas tardes. ¿El plan incluye proyecto final o tesis? Gracias.
+p05,formulario,plan_estudios,"Hola, ¿El plan incluye proyecto final o tesis? mi cel <telefono>"
+p05,correo,plan_estudios,"Buen día, me llamo <nombre>. ¿El plan incluye proyecto final o tesis? Mi matrícula es <matricula>."
+p05,correo,plan_estudios,Me enteré por redes. ¿El plan incluye proyecto final o tesis? mi cel <telefono>
+p05,correo,plan_estudios,Buenas tardes .¿El plan incluye proyecto final o tesis? mi cel <telefono>
+p05,correo,plan_estudios,una pregunta: el plani ncluye proyecto final o tesis mi correo es <correo>
+p05,correo,plan_estudios,"Buen día, me llamo <nombre>. ¿El plan incluye proyecto final o tesis? mi cel <telefono>"
+p05,correo,plan_estudios,"Soy <nombre>, aspirante. ¿El plan incluye proyecto final o tesis? Quedo atento."
+p05,formulario,plan_estudios,"Soy <nombre>, aspirante. ¿El plan incluye proyecto final o tesis? Mi correo es <correo>"
+p06,correo,plan_estudios,¿Cuántas materias se llevan por periodo? mi cel <telefono>
+p06,whatsapp,plan_estudios,Una pregunta: ¿Cuántas materias se llevan por periodo? Mi matrícula es <matricula>.
+p06,formulario,plan_estudios,"Disculpe, ¿Cuántas materias se llevan por periodo? mi cel <telefono>"
+p06,formulario,plan_estudios,"Me enteré por redes. ¿Cuántas materias se llevan por periodo? Saludos, <nombre>."
+p06,whatsapp,plan_estudios,"disculpe, cuantas materias se llevan por preiodo mi cel <telefono>"
+p06,formulario,plan_estudios,"Hola, ¿Cuántas materias se llevan por periodo? Quedo atento."
+p06,correo,plan_estudios,"Trabajo tiempo completo y ¿Cuántas materias se llevan por periodo? Saludos, <nombre>."
+p06,formulario,plan_estudios,"Hola, ¿Cuántas materias se llevan por periodo?"
+p06,whatsapp,plan_estudios,"Buen dia, me llamo <nombre>. ¿Cuantas materias se llevan por periodo? Mi matricula es <matricula>."
+p06,correo,plan_estudios,Buenas tardes. ¿Cuantas materias se llevna por periodo?
+p06,whatsapp,plan_estudios,Me enteer por redes. ¿Cuantas materias se llevan por periodo? mi cel <telefono>
+p06,correo,plan_estudios,"Soy alumno, ¿Cuántas materias se llevan por periodo? mi cel <telefono>"
+p07,whatsapp,plan_estudios,"Buen día, me llamo <nombre>. ¿Dónde puedo ver el plan de estudios completo? Saludos, <nombre>."
+p07,correo,plan_estudios,dónde puedo ver el plan de estudios completo
+p07,formulario,plan_estudios,Me enteré por redes. ¿Dónde puedo ver el plan de estduios completo?
+p07,correo,plan_estudios,Me enteré por redes. ¿Dónde puedo ver el plan de estudios completo?
+p07,whatsapp,plan_estudios,¿Dónde puedo ver el plan de estudios completo? Quedo atento.
+p07,whatsapp,plan_estudios,"Hola, ¿Donde puedo ver el plan de estudios completo? Mi matricula es <matricula>."
+p07,correo,plan_estudios,"Buen día, me llamo <nombre>. ¿Dónde puedo ver el plan de estudios completo? Quedo atento."
+p07,formulario,plan_estudios,"Disculpe, ¿Dónde puedo ver el plan de estudios completo? Quedo atento."
+p07,correo,plan_estudios,¿Dónde puedo ver el plan de estudios completo?
+p07,correo,plan_estudios,¿Dónde puedo ver el plan de estudios completo? Mi correo es <correo>
+p07,formulario,plan_estudios,Buenas tardes. ¿Dónde puedo ver el plan de estudios completo? Mi correo es <correo>
+p07,formulario,plan_estudios,Buenas tardes. ¿Dónde puedo ver el plan de estudios completo?
+p08,formulario,plan_estudios,"Soy <nombre>, aspirante. ¿Qué temas se ven en la maestría de inteligencia artificial? Mi correo es <correo>"
+p08,whatsapp,plan_estudios,"Soy <nombre>, aspirante. ¿Que temas se ven en la maestria de inteligencia artificial? Mi correo es <correo>"
+p08,whatsapp,plan_estudios,"disculpe, qué temas se ven en la masetría de inteligencia artificial mi correo es <correo>"
+p08,correo,plan_estudios,"Disculpe, ¿Que temas se ven en la maestria de inetligencia artificial? Saludos, <nombre>."
+p08,correo,plan_estudios,"Hola, ¿Qué temas se ven en la maestría dei nteligencia artificial? Gracias."
+p08,correo,plan_estudios,"Disculpe, ¿Qué temas se ven en la maestría de inteligencia artificial?"
+p08,formulario,plan_estudios,"Disculpe, ¿Qué temas se ven en la maestría de inteligencia artificial? Quedo atento."
+p08,formulario,plan_estudios,Buenas tardes. ¿Qué temas se ven en la maestría de inteligencia artificial?
+p08,correo,plan_estudios,Me enteré por redes. ¿Qué temas se ven en la maestría de inteligencia artificial? mi cel <telefono>
+p08,formulario,plan_estudios,"Hola, ¿Qué temas se ven en la maestría de inteligencia artificial? Mi correo es <correo>"
+p08,formulario,plan_estudios,"Soy alumno, ¿Qué temas se ven en la maestría de inteligencia artificial?"
+p08,formulario,plan_estudios,"Hola, ¿Que temas se ven en la meastria de inteligencia artificial? Gracias."
+p09,whatsapp,plan_estudios,"una pregunta: el programa tiene rvoe saludos, ana lopez."
+p09,whatsapp,plan_estudios,"Disculpe, ¿El programa tiene RVOE?"
+p09,formulario,plan_estudios,Trabajo tiempo completo y ¿El programa tiene RVOE? mi cel <telefono>
+p09,correo,plan_estudios,"Buen día, me llamo <nombre>. ¿El programa tiene RVOE? mi cel <telefono>"
+p09,formulario,plan_estudios,"Buen día, me llamo <nombre>. ¿El programa tiene RVOE?"
+p09,correo,plan_estudios,Una pregunta: ¿El programa tiene RVOE? Mi correo es <correo>
+p09,correo,plan_estudios,"Buen día, me llamo <nombre>. ¿El programa tiene RVOE? Gracias."
+p09,formulario,plan_estudios,"Hola, ¿El programa tiene RVOE? mi cel <telefono>"
+p09,formulario,plan_estudios,"Hola, ¿El programa tiene RVOE?"
+p09,whatsapp,plan_estudios,Buenas tardes. ¿El programa tiene RVOE? Gracias.
+p09,whatsapp,plan_estudios,¿El programa tiene RVOE? Quedo atento.
+p09,whatsapp,plan_estudios,"soy alumno, el programa tiene rvoe saludos, ana lópez."
+p10,correo,plan_estudios,"Disculpe, ¿En cuántos trimestres termino la maestría? Mi correo es <correo>"
+p10,whatsapp,plan_estudios,Buenas tardes. ¿En cuántos trimestres termino la maestría? Mi correo es <correo>
+p10,correo,plan_estudios,"Soy <nombre>, aspirante. ¿En cuántos trimestres termino la maestría? mi cel <telefono>"
+p10,whatsapp,plan_estudios,Buenas tardes. ¿En cuantos trimestres termino la maestria? Mi corre oes <correo>
+p10,formulario,plan_estudios,Me enteré por redes. ¿En cuántos trimestres termino la maestría? Gracias.
+p10,formulario,plan_estudios,"Disculpe, ¿En cuántos trimestres termino la maestría? Mi matrícula es <matricula>."
+p10,formulario,plan_estudios,¿En cuántos trimestres termino la maestría? Gracias.
+p10,formulario,plan_estudios,"Soy alumno, ¿En cuántos trimestres termino la maestría? Saludos, <nombre>."
+p10,whatsapp,plan_estudios,Una pregunta: ¿En cuántos trimestres termino la maestría?
+p10,formulario,plan_estudios,Una pregunta: ¿En cuántos trimestres termino la maestría? Quedo atento.
+p10,correo,plan_estudios,Trabajo tiempo completo y ¿En cuántos trimestres termino la maestría? Gracias.
+p10,whatsapp,plan_estudios,¿En cuanto strimestres termino la maestria? Mi matricula es <matricula>.
+f01,formulario,fechas,Una pregunta: ¿Cuándo abre la próxima convocatoria? Mi matrícula es <matricula>.
+f01,whatsapp,fechas,trabajo tiempo completo y cuánd oabre la próxima convocatoria quedo atento.
+f01,whatsapp,fechas,"Buen dia, me llamo <nombre>. ¿Cuando abre la proxima convocatoria? mi cel <telefono>"
+f01,whatsapp,fechas,"disculpe, cuándo abre la próxima convocatoria gracias."
+f01,formulario,fechas,"Disculpe, ¿Cuándo abre la próxima convocatoria? Mi correo es <correo>"
+f01,correo,fechas,Buenas tardes. ¿Cuándo abre la próxima convocatoria? Quedo atento.
+f01,correo,fechas,"soy alumno, cuándo abre la próxima convocaotria mi cel <telefono>"
+f01,whatsapp,fechas,trabajo tiempo completo y cuándo abre la próxima convocatoria mi correo es <correo>
+f01,whatsapp,fechas,"Hola, ¿Cuando abre la proxima convocatoria? Quedo atento."
+f01,correo,fechas,"Hola, ¿Cuándo abre la próxima convocatoria? Mi correo es <correo>"
+f01,formulario,fechas,"Buen día, me llamo <nombre>. ¿Cuándo abre la próxima convocatoria? mi cel <telefono>"
+f02,formulario,fechas,"Buen dia, me llamo <nombre>. ¿Cual es la fecha limite para entregar documentos?"
+f02,correo,fechas,"Buen día, me llamo <nombre>. ¿Cuál es la fecha límite para entregar documentos? Gracias."
+f02,correo,fechas,Una pregunta: ¿Cuál es la fecha límite para entregar documentos? Gracias.
+f02,formulario,fechas,Trabajo tiempo completo y ¿Cuál es la fecha límite para entregar documentos? mi cel <telefono>
+f02,correo,fechas,Me entere por redes. ¿Cual es la fecha limite para entregar documentos? mi cel <telefono>
+f02,whatsapp,fechas,"Soy alumno, ¿Cual es la fecha limite para entregar documentos?"
+f02,whatsapp,fechas,"Disculpe, ¿Cuál es la fecha límite para entregar documentso? Gracias."
+f02,whatsapp,fechas,me entere por redes. cual es la fecha limite para entregar documentos gracias.
+f02,correo,fechas,Trabajo tiempo completo y ¿Cuál es la fecha límite para entregar documentos? Mi matrícula es <matricula>.
+f02,formulario,fechas,"Hola, ¿Cuál es la fecha límite para entregar documentos? Mi correo es <correo>"
+f02,correo,fechas,"Soy <nombre>, aspirante. ¿Cuál es la fecha límite para entregar documentos? Quedo atento."
+f02,correo,fechas,"¿Cuál es la fecha límite para entregar documentos? Saludos, <nombre>."
+f03,formulario,fechas,"Hola, ¿Cuándo empiezan las clases del siguiente periodo? Mi matrícula es <matricula>."
+f03,whatsapp,fechas,me enteré por redes. cuándo empiezan las clases del siguiente periodo mi matrícula es <matricula>.
+f03,correo,fechas,"soy alumno, cuando empiezan las clases del siguiente periodo saludos, ana lopez."
+f03,formulario,fechas,¿Cuándo empiezan las clases del siguiente periodo? mi cel <telefono>
+f03,formulario,fechas,"Buen día, me llamo <nombre>. ¿Cuándo empiezan las clases del siguiente periodo? Gracias."
+f03,formulario,fechas,"Soy alumno, ¿Cuándo empiezan las clases del siguiente periodo? Saludos, <nombre>."
+f03,correo,fechas,"Una pregunta: ¿Cuándo empiezan las clases del siguiente periodo? Saludos, <nombre>."
+f03,formulario,fechas,"Buenas tardes. ¿Cuándo empiezan las clases del siguiente periodo? Saludos, <nombre>."
+f03,whatsapp,fechas,"hola, cuándo empiezan las clases del siguiente periodo quedo atento."
+f03,correo,fechas,"Soy <nombre>, aspirante. ¿Cuándo empiezan las clases del siguiente periodo?"
+f03,formulario,fechas,trabajo tiempo completo y cuando empiezan las clases del sigiuente periodo mi correo es <correo>
+f03,formulario,fechas,trabajo tiempo completo y cuando empiezan las clases del siguiente periodo mi cel <telefono>
+f04,whatsapp,fechas,"Soy <nombre>, aspirante. ¿Hasta que dia puedo inscribirme? Mi correo es <correo>"
+f04,correo,fechas,"Disculpe, ¿Hasta qué día puedo inscribirme? Mi matrícula es <matricula>."
+f04,correo,fechas,Trabajo tiempo completo y ¿Hasta qué día puedo inscribirme? Mi correo es <correo>
+f04,correo,fechas,"Buen día, me llamo <nombre>. ¿Hasta qué día puedo inscribirme? Mi matrícula es <matricula>."
+f04,correo,fechas,"Soy alumno, ¿Hasta q dia puedo inscribirme? Gracias."
+f04,correo,fechas,"Soy alumno, ¿Hasta qué día puedo inscribirme? Mi matrícula es <matricula>."
+f04,formulario,fechas,Buenas tardes. ¿Hasta qué día puedo inscribirme? mi cel <telefono>
+f04,correo,fechas,"Disculpe, ¿Hasta qué día puedo inscribirme?"
+f04,whatsapp,fechas,Una pregunta: ¿Hasta q dia puedo inscribirme? uQedo atento.
+f04,correo,fechas,Una pregunta: ¿Hasta qué día puedo inscribirme? mi cel <telefono>
+f04,formulario,fechas,"Disculpe, ¿Hasta qué día puedo inscribirme? Mi correo es <correo>"
+f04,formulario,fechas,Buenas tardes. ¿Hasta qué día puedo inscribirme? Mi matrícula es <matricula>.
+f05,correo,fechas,"Hola, ¿Cuándo publican los resultados de admisión? Saludos, <nombre>."
+f05,correo,fechas,Una pregunta: ¿Cuando publican los resultados de admision? mi cel <telefono>
+f05,whatsapp,fechas,"buen dia, me llamo carlos perez. cuando publican los resultados de admision saludos, ana lopez."
+f05,whatsapp,fechas,"Disculpe, ¿Cuando publican los resultados de admision? mi cel <telefono>"
+f05,whatsapp,fechas,"Buen dia, me llamo <nombre>. ¿Cuando publican los resultados de admision? Quedo atento."
+f05,formulario,fechas,"Disculpe, ¿Cuándo publican los resultados de admisión? Saludos, <nombre>."
+f05,correo,fechas,"Soy <nombre>, aspirante. ¿Cuándo publican los resultados de admisión? Mi correo es <correo>"
+f05,whatsapp,fechas,¿Cuándo publican ols resultados de admisión? Gracias.
+f05,correo,fechas,Una pregunta: ¿Cuándo publican los resultados de admisión? Mi matrícula es <matricula>.
+f05,formulario,fechas,Buenas tardes. ¿Cuándo publican los resultados de admisión?
+f05,formulario,fechas,Buenas tardes. ¿Cuándo publican los resultados de admisión? Gracias.
+f05,formulario,fechas,Una pregunta: ¿Cuando publican los resultados de admision? Mi matricula es <matricula>.
+f06,correo,fechas,"Disculpe, ¿Qué fechas tiene el calendario escolar? mi cel <telefono>"
+f06,formulario,fechas,"Buen día, me llamo <nombre>. ¿Qué fechas tiene el calendario escolar? Mi matrícula es <matricula>."
+f06,correo,fechas,Me enteré por redes. ¿Qué fechas tiene el calendario escolar? Mi matrícula es <matricula>.
+f06,whatsapp,fechas,"soy mariana ruiz, aspirante. qué fechas tiene el calendario escolar"
+f06,correo,fechas,Una pregunta: ¿Qué fechas tiene el calendario escolar? Gracias.
+f06,correo,fechas,"Buen día, me llamo <nombre>. ¿Qué fechas tiene el calendario escolar?"
+f06,correo,fechas,Me entere por redes. ¿Que fechsa tiene el calendario escolar? Quedo atento.
+f06,correo,fechas,¿Qué fechas tiene el calendario escolar? Quedo atento.
+f06,correo,fechas,"Soy alumno, ¿Qué fechas tiene el calendario escolar? Gracias."
+f06,correo,fechas,Buenas tardes. ¿Qué fechas tiene el calendario escolar? Mi correo es <correo>
+f07,correo,fechas,"Buen día, me llamo <nombre>. ¿Cuándo es el examen de admisión?"
+f07,whatsapp,fechas,Una pregunta: ¿Cuándo se el examen de admisión? Quedo atento.
+f07,correo,fechas,"Buen día, me llamo <nombre>. ¿Cuándo es el examen de admisión? Gracias."
+f07,formulario,fechas,"Disculpe, ¿Cuándo es el examen de admisión? Saludos, <nombre>."
+f07,correo,fechas,¿Cuándo es el examen de admisión? Mi correo es <correo>
+f07,formulario,fechas,"Buen día, me llamo <nombre>. ¿Cuándo es el examen de admisión? Mi correo es <correo>"
+f07,correo,fechas,Trabajo tiempo completo y ¿Cuándo es el examen de admisión? mi cel <telefono>
+f07,formulario,fechas,Una pregunta: ¿Cuándo es el examen de admisión?
+f07,whatsapp,fechas,"Soy alumno, ¿Cuando es el examen de admision? Mi correo es <correo>"
+f07,formulario,fechas,"Soy <nombre>R uiz, aspirante. ¿Cuando es el examen de admision? Saludos, <nombre>."
+f07,whatsapp,fechas,Una pregunta: ¿Cuándo es el examen de admisión? Mi matrícula es <matricula>.
+f07,whatsapp,fechas,"hola, cuando es el examen de admision mi cel <telefono>"
+f08,whatsapp,fechas,"Soy <nombre>, aspirante. ¿Todavía estoy a tiempo de entrra este periodo? Saludos, <nombre>."
+f08,correo,fechas,Buenas tardes. ¿Todavía estoy a tiempo de entrar este periodo? Gracias.
+f08,formulario,fechas,"Disculpe, ¿Todavía estoy a tiempo de entrar este periodo? Gracias."
+f08,whatsapp,fechas,Me enteré por redes. ¿Todavía estoy a tiempo de entrar este periodo? mi cel <telefono>
+f08,whatsapp,fechas,"Soy alumno, ¿Todavia estoy a tiempo de entrar este periodo? Mi matricula es <matricula>."
+f08,formulario,fechas,"disculpe, todavía estoy a tiempo de entrar este periodo mi cel <telefono>"
+f08,formulario,fechas,"Soy <nombre>, aspirante. ¿Todavía esoty a tiempo de entrar este periodo? mi cel <telefono>"
+f08,correo,fechas,Trabajo tiempo completo y ¿Todavía estoy a tiempo de entrar este periodo? Quedo atento.
+f08,correo,fechas,"Soy <nombre>, aspirante. ¿Todavía estoy a tiempo de entrar este periodo? mi cel <telefono>"
+f08,whatsapp,fechas,"soy alumno, todavia estoy a tiempo de entrar este periodo gracias."
+f08,formulario,fechas,Me enteré por redes. ¿Todavía estoy a tiempo de entrar este periodo? Quedo atento.
+f09,formulario,fechas,"Soy alumno, ¿Cada cuándo hay ingreso a la maestría?"
+f09,correo,fechas,"Hola, ¿Cada cuándo hay ingreso a la maestría? Gracias."
+f09,correo,fechas,"Disculpe, ¿Cada cuándo hay ingreso a la maestría? Gracias."
+f09,correo,fechas,Buenas tardes. ¿Cada cuándo hay ingreso a la maestría? Quedo atento.
+f09,formulario,fechas,"Disculpe, ¿Cada cuando hay ingreso a la maestria? Mi correo es <correo>"
+f09,whatsapp,fechas,Me entere por redes. ¿Cada cuando hay ingreso a la maestria? Quedo atento.
+f09,correo,fechas,"Me enteré por redes. ¿Cada cuándo hay ingreso a la maestría? Saludos, <nombre>."
+f09,correo,fechas,"Soy <nombre>, aspirante. ¿Cada cuándo hay ingreso a la maestría? Quedo atento."
+f09,correo,fechas,"Buenas tardes. ¿Cada cuándo hay ingreso a la maestría? Saludos, <nombre>."
+f09,whatsapp,fechas,¿Cada cuando hay ingreso a la maestria? Mi correo es <correo>
+f09,whatsapp,fechas,trabajo tiempo completo y cada cuándo hay ingreso a la maestríag racias.
+f09,formulario,fechas,"hola, cada cuándo hay ingreso a la maestría saludos, ana lópez."
+f10,formulario,fechas,¿Cuál es el último día de pago de la inscripción? Mi matrícula es <matricula>.
+f10,formulario,fechas,Buenas tardes. ¿Cuál es el último día de pago de la inscripción? Gracias.
+f10,whatsapp,fechas,"Soy <nombre>, aspirante. ¿Cual es el ultimo dia de pago de la inscripcion? Saludos, <nombre>."
+f10,whatsapp,fechas,"hola, cuál es el último daí de pago de la inscripción mi cel <telefono>"
+f10,formulario,fechas,"soy alumno, cual es el ultiom dia de pago de la inscripcion quedo atento."
+f10,formulario,fechas,Trabajo tiempo completo y ¿Cual es el ultimo dia de pago de la inscripcion? Mi correo es <correo>
+f10,whatsapp,fechas,¿Cual es el ultimo dia de pago de la inscripcion? Quedo atento.
+f10,correo,fechas,"Disculpe, ¿Cuál es el último día de pago de la inscripción? mi cel <telefono>"
+f10,formulario,fechas,"Soy <nombre>, aspirante. ¿Cuál es el último día de pago de la inscripción? Mi matrícula es <matricula>."
+f10,formulario,fechas,C¿ual es el ultimo dia de pago de la inscripcion? Mi matricula es <matricula>.
+f10,whatsapp,fechas,"disculpe, cual es el ultimo dia de pago de la inscripcion mi cel <telefono>"
+k01,whatsapp,constancias,Una pregunta: ¿Cómo solicito una constancai de estudios? Quedo atento.
+k01,whatsapp,constancias,"buen dia, me llamo carlos perez. como solicito una constancia de estudios gracias."
+k01,whatsapp,constancias,Buenas tardes. ¿Cómo solicito una constancia de estudios? Mi correo es <correo>
+k01,correo,constancias,Me enteré por redes. ¿Cómo solicito una constancia de estudios? mi cel <telefono>
+k01,formulario,constancias,cómo solicito una constancia de estudios quedo atetno.
+k01,correo,constancias,Me enteré por redes. ¿Cómo solicito una constancia de estudios? Mi correo es <correo>
+k01,correo,constancias,¿Cómo solicito una constancia de estudios? rGacias.
+k01,correo,constancias,"Disculpe, ¿Cómo solicito una constancia de estudios? Mi correo es <correo>"
+k01,correo,constancias,"Hola, ¿Cómo solicito una constancia de estudios? Quedo atento."
+k01,correo,constancias,"Soy <nombre>, aspirante. ¿Como solicito una ocnstancia de estudios? Mi matricula es <matricula>."
+k01,correo,constancias,Una pregunta: ¿Cómo solicito una constancia de estudios? Quedo atento.
+k02,whatsapp,constancias,"Disculpe, ¿Cuanto tarda en salir un certificado parcial? Mi correo es <correo>"
+k02,whatsapp,constancias,Trabajo tiempo completo y ¿Cuánto tarda en salir un certificado parcial? Gracias.
+k02,formulario,constancias,Una pregunta: ¿Cuánto tarda en salir un certificado parcial? Quedo atento.
+k02,whatsapp,constancias,"Soy <nombre>, aspirante. ¿Cuánto tarda en salir un certificado parcial?"
+k02,whatsapp,constancias,"soy alumno, cuanto tarda en salir un certificdao parcial quedo atento."
+k02,formulario,constancias,"Buenas tardes. ¿Cuánto tarda en salir un certificado parcial? Saludos, <nombre>."
+k02,formulario,constancias,Una pregunta: ¿Cuánto tarda en salir un certificado parcial? mi cel <telefono>
+k02,whatsapp,constancias,Me entere por redse. ¿Cuanto tarda en salir un certificado parcial? Gracias.
+k02,formulario,constancias,"Hola, ¿Cuánto tarda en salir un certificado parcial? Gracias."
+k02,whatsapp,constancias,"disculpe, cuánto tarda en salir un certificado parcial quedo atento."
+k02,formulario,constancias,"buen dia, me llamo carlos perez. cuanto tarda en salir un certificado parcial mi matricula es <matricula>."
+k02,correo,constancias,"¿Cuánto tarda en salir un certificado parcial? Saludos, <nombre>."
+k03,formulario,constancias,"Buen día, me llamo <nombre>. Necesito una constancia para mi trabajo ¿dónde la pido? Quedo atento."
+k03,whatsapp,constancias,"Hola, Necesito una constancia para mi trabajo ¿dónde la pido? Gracias."
+k03,correo,constancias,"Una pregunta: Necesito una constancia para mi trabajo ¿dónde la pido? Saludos, <nombre>."
+k03,formulario,constancias,Una pregunta: Necesito una constancia para mi trabajo ¿dónde la pido? Mi correo es <correo>
+k03,formulario,constancias,Trabajo tiempo completo y Necesito una constancia para mi trabajo ¿dónde la pido? Quedo atento.
+k03,correo,constancias,Buenas tardes. Necesito una constancia para mi trabajo ¿dónde la pido? Mi correo es <correo>
+k03,whatsapp,constancias,"soy mariana ruiz, aspirante. necesito una constancia para mi trabajo dónde la pido mi correo es <correo>"
+k03,whatsapp,constancias,"Soy alumno, Necesito una constancia para mi trabajo ¿donde la pido? Sauldos, Ana Lopez."
+k03,whatsapp,constancias,"Buen dia, me llamo <nombre>. Necesito una constancia para mi trabajo ¿donde la pido? Mi matricula es <matricula>."
+k03,whatsapp,constancias,Me enteré por redes. Necesito una constancia para mi trabajo ¿dónde la pido? Gracias.
+k03,formulario,constancias,"Hola, Necesito una constancia para mi trabajo ¿dónde la pido? mi cel <telefono>"
+k04,whatsapp,constancias,"buen dia, me llamo carlos perez. cuanto cuesta el certificado de calificaciones"
+k04,whatsapp,constancias,trabajo tiempo completo y cuánto cuesta el certificado de calificaciones quedo taento.
+k04,formulario,constancias,¿Cuánto cuesta el certificado de calificaciones?
+k04,whatsapp,constancias,"buen dia, me llamo carlos perez. cuanto cuesta el ecrtificado de calificaciones gracias."
+k04,whatsapp,constancias,"Una pregunta: ¿Cuanto cuesta el certificado de calificaciones? Saludos, <nombre>."
+k04,formulario,constancias,cuanto cuesta el certificado de calificaciones mi cel <telefono>
+k04,correo,constancias,Trabajo tiempo completo y ¿Cuanto cuesta el certificado de calificaciones? Gracias.
+k04,correo,constancias,Una pregunta: ¿Cuánto cuesta el certificado de calificaciones? Gracias.
+k04,correo,constancias,Una pregunta: ¿Cuánto cuesta el certificado de calificaciones? Mi matrícula es <matricula>.
+k04,formulario,constancias,"Soy <nombre>, aspirante. ¿Cuánto cuesta el certificado de calificaciones?"
+k04,correo,constancias,¿Cuánto cuesta el certificado de calificaciones? mi cel <telefono>
+k05,formulario,constancias,"Trabajo tiempo completo y ¿Puedo pedir la constancia en línea? Saludos, <nombre>."
+k05,whatsapp,constancias,"Soy alumno, ¿Puedo pedir la constancia en linea? Quedo atento."
+k05,formulario,constancias,Trabajo tiempo completo y ¿Puedo pedir la constancia en línea? Mi correo es <correo>
+k05,whatsapp,constancias,"soy alumno, puedo pedir la constancia en linea quedo atento."
+k05,formulario,constancias,"Soy alumno, ¿Puedo pedir la constancia en línea? Gracias."
+k05,correo,constancias,¿Puedo pedir la constancia en línea?
+k05,formulario,constancias,Buenas tardes. ¿Puedo pedir la constancia en línea? Mi matrícula es <matricula>.
+k05,whatsapp,constancias,"Buen día, me llamo <nombre>. ¿Puedo pedir la constancia en línea? mi cel <telefono>"
+k05,whatsapp,constancias,Me enteré por redes. ¿Puedo pedir la constancia en línea? Gracias.
+k05,whatsapp,constancias,"Hola, ¿Puedo pedir la constancia en línea? Mi correo es <correo>"
+k05,whatsapp,constancias,"Soy <nombre>, aspirante. ¿Puedo pedir la constancia en línea? Mi matrícula es <matricula>."
+k06,whatsapp,constancias,buenas tardes. q tramite sigo para obtener mi kardex
+k06,formulario,constancias,"disculpe, qué trámite sigo para obtener mi kárdex mi correo es <correo>"
+k06,whatsapp,constancias,"disculpe, q tramite sigo para obtener mi kardex"
+k06,whatsapp,constancias,Buenas tardes. ¿Que tramite sigo para obtener mi kardex? Mi correo es <correo>
+k06,whatsapp,constancias,"hola, qué trámite sigo para obtener mi kárdex mi cel <telefono>"
+k06,correo,constancias,"Disculpe, ¿Qué trámite sigo para obtener mi kárdex? Mi matrícula es <matricula>."
+k06,whatsapp,constancias,Buenas tardes. ¿Qué trámite siog para obtener mi kárdex? Gracias.
+k06,correo,constancias,Buenas tardes. ¿Qué trámite sigo para obtener mi kárdex?
+k06,whatsapp,constancias,Me enteré por redes. ¿Qué trámite sigo para obtener mi kárdex? mi cel <telefono>
+k06,whatsapp,constancias,Buenas tardes. ¿Qué trámite sigo para obtener mi kárdex? mi cel <telefono>
+k06,correo,constancias,"Una pregunta: ¿Qué trámite sigo para obtener mi kárdex? Saludos, <nombre>."
+k06,whatsapp,constancias,¿Qué trámite sigo para obtener mi kárdex? Quedo atento.
+k07,correo,constancias,Buenas tardes. ¿La constancia lleva firma electrónica?
+k07,whatsapp,constancias,"Buen dia, me llamo <nombre>. ¿La constancia lleva firma electronica? Mi correo es <correo>"
+k07,whatsapp,constancias,¿La constancia lleva firma electronica? Mi matricula es <matricula>.
+k07,correo,constancias,¿La constancia lleva firma electrónica? Mi matrícula es <matricula>.
+k07,formulario,constancias,¿La constancia lleva firma electrónica? mi cel <telefono>
+k07,formulario,constancias,"Trabajo tiempo completo y ¿La constancia lleva firma electronica? Saludos, <nombre>."
+k07,formulario,constancias,¿La constancia lleva firma electrónica? Quedo atento.
+k07,formulario,constancias,"Buen día, me llamo <nombre>. ¿La constancia lleva firma electrónica? mi cel <telefono>"
+k07,formulario,constancias,"Soy alumno, ¿La constancia lleva firma electrónica? Saludos, <nombre>."
+k07,correo,constancias,"buen dia, me lalmo carlos perez. la constancia lleva firma electronica saludos, ana lopez."
+k07,formulario,constancias,"Me enteré por redes. ¿La constancia lleva firma electrónica? Saludos, <nombre>."
+k07,whatsapp,constancias,"Soy alumno, ¿La constancia lleva firma electronica?"
+k08,formulario,constancias,Trabajo tiempo completo y ¿Cómo tramito mi título de maestría? mi cel <telefono>
+k08,whatsapp,constancias,"disculpe, como tramito mi titulo de maestria mi correo es <correo>"
+k08,correo,constancias,"Soy <nombre>, aspirante. ¿Cómo tramito mi título de maestría? Saludos, <nombre>."
+k08,whatsapp,constancias,Una pregunta :¿Como tramito mi titulo de maestria? Gracias.
+k08,whatsapp,constancias,Una pregunta: ¿Cómo tramito mi título de maestría? Mi martícula es <matricula>.
+k08,correo,constancias,"Buen día, me llamo <nombre>. ¿Cómo tramito mi título de maestría? Mi matrícula es <matricula>."
+k08,formulario,constancias,"Soy alumno, ¿Cómo tramito mi título de maestría? mi cel <telefono>"
+k08,formulario,constancias,"Me enteré por redes. ¿Cómo tramito mi título de maestría? Saludos, <nombre>."
+k08,formulario,constancias,"Disculpe, ¿Cómo tramito mi título de maestría? mi cel <telefono>"
+k08,whatsapp,constancias,"Hola, ¿Como trmaito mi titulo de maestria? mi cel <telefono>"
+k08,formulario,constancias,Trabajo tiempo completo y ¿Cómo tramito mi título de maestría?
+k08,formulario,constancias,"Soy alumno, ¿Cómo tramito mi título de maestría? Saludos, <nombre>."
+k09,whatsapp,constancias,"Disculpe, ¿Me dan constancia de inscripcion para la beca de mi empresa? Quedo atento."
+k09,correo,constancias,me entere por redes. me dan constancia de inscripcion para la beca de mi empresa quedo atento.
+k09,formulario,constancias,"Disculpe, ¿Me dan constancia de inscripción para la beca de mi empresa? mi cel <telefono>"
+k09,whatsapp,constancias,buenas tardes. me dan constancia de inscripción para lab eca de mi empresa mi correo es <correo>
+k09,whatsapp,constancias,"Hola, ¿Me dan constancia de inscripción para la beca de mi empresa? mi cel <telefono>"
+k09,whatsapp,constancias,"Buen día, me llamo <nombre>. ¿Me dan constancia de inscripción para la beca de mi empresa? Quedo atento."
+k09,correo,constancias,"Soy <nombre>, aspirante. ¿Me dan constancia de inscripción para la beca de mi empresa? Quedo atento."
+k09,whatsapp,constancias,"Buen día, me llamo <nombre>. ¿Me dan constancia de inscripción para la beca de mi empresa? Saludos, <nombre>."
+k09,correo,constancias,"Soy <nombre>, aspirante. ¿Me dan constancia de inscripción para la beca de mi empresa?"
+k09,correo,constancias,"Hola, ¿Me dan constancia de inscripción para la beca de mi empresa? Quedo atento."
+k09,whatsapp,constancias,"Disculpe, ¿Me dan constancia de inscripcion para la beca de mi empresa? Mi matricula es 0A1234567."
+k09,formulario,constancias,¿Me dan constancia de inscripción para la beca de mi empresa?
+k10,correo,constancias,¿Dónde descargo mi boleta de calificaciones? mi cel <telefono>
+k10,whatsapp,constancias,"disculpe, dónde descargo mi boleta de calificaciones quedo atento."
+k10,correo,constancias,"Hola, ¿Dónde descargo mi boleta de calificaciones?"
+k10,correo,constancias,"Hola, ¿Dónde descargo mi boleta de calificaciones? Saludos, <nombre>."
+k10,correo,constancias,"Buenas tardes. ¿Dónde descargo mi boleta de calificaciones? Saludos, <nombre>."
+k10,correo,constancias,"Soy alumno, ¿Donde descargo mi boleta de calificaciones? Mi matricula es <matricula>."
+k10,correo,constancias,Trabajo tiempo completo y ¿Dónde descargo mi boleta de calificaciones? Gracias.
+k10,formulario,constancias,"Hola, ¿Dónde descargo mi boleta de calificaciones? Quedo atento."
+k10,whatsapp,constancias,Trabajo tiempo completo y ¿Donde descargo mi boleta de calificaciones? Mi correo es <correo>
+k10,whatsapp,constancias,"Hola, ¿Dónde descargo mi boleta de calificaciones? Gracias."
+k10,correo,constancias,"Soy <nombre>, aspirante. ¿Dónde descargo mi boleta de calificaciones? Mi correo es <correo>"
+k10,whatsapp,constancias,"Soy <nombre>, aspirante. D¿onde descargo mi boleta de calificaciones? Mi correo es <correo>"
+m01,formulario,modalidad,Me enteré por redes. ¿La maestría es en línea o presencial?
+m01,correo,modalidad,"Soy <nombre>, aspirante. ¿La maestría es en línea o presencial? Mi correo es <correo>"
+m01,correo,modalidad,"disculpe, la maestria es en linea o presencial gracias."
+m01,correo,modalidad,"Soy <nombre>, aspirante. ¿La maestría es en línea o presencial? Saludos, <nombre>."
+m01,formulario,modalidad,¿La maestría es en línea o presencial? mi cel <telefono>
+m01,correo,modalidad,"Hola, ¿La maestría es en línea o presencial? mi cel <telefono>"
+m01,whatsapp,modalidad,"Soy <nombre>, aspirante. ¿La maestría es en línea o presencial ?Gracias."
+m01,whatsapp,modalidad,"Soy <nombre>, aspirante. ¿La maestría es ne línea o presencial? Quedo atento."
+m01,whatsapp,modalidad,trabajo tiempo completo y la maestría es en línea o presencial quedo atento.
+m01,whatsapp,modalidad,"Soy alumno, ¿La maestria es en linea o presencial? mi cel <telefono>"
+m01,whatsapp,modalidad,"Buen día, me llamo <nombre>. ¿Lam aestría es en línea o presencial? Saludos, <nombre>."
+m01,formulario,modalidad,¿La maestría es en línea o presencial? Mi matrícula es <matricula>.
+m02,whatsapp,modalidad,Me enteré por redes. ¿Qué horario tienen las clases? Mi correo es <correo>
+m02,correo,modalidad,Me enteré por redes. ¿Qué horario tienen las clases? mi cel <telefono>
+m02,correo,modalidad,"Disculpe, ¿Qué horario tienen las clases? Gracias."
+m02,whatsapp,modalidad,"soy mariana ruiz, aspirante. que horario tienen las clases saludos, ana lopez."
+m02,correo,modalidad,Trabajo tiempo completo y ¿Qué horario tienen las clases? Gracias.
+m02,formulario,modalidad,"Hola, ¿Qué horario tienen las clases? Mi correo es <correo>"
+m02,whatsapp,modalidad,¿Qué horario tienen las clases?
+m02,formulario,modalidad,unap regunta: que horario tienen las clases quedo atento.
+m02,correo,modalidad,Buenas tardes. ¿Qué horario tienen las clases? mi cel <telefono>
+m02,correo,modalidad,¿Qué horario tienen las clases? Quedo atento.
+m02,formulario,modalidad,Trabajo tiempo completo y ¿Qué horario tienen las clases? Quedo atento.
+m02,whatsapp,modalidad,que horario tienen las clases quedo atento.
+m03,correo,modalidad,"Hola, ¿Las sesiones son en vivo o grabadas? Saludos, <nombre>."
+m03,formulario,modalidad,"Soy alumno, ¿Las sesiones son en vivo o grabadas?"
+m03,whatsapp,modalidad,¿Las sesioens son en vivo o grabadas?
+m03,whatsapp,modalidad,"Trabajo tiempo completo y ¿Las sesiones son en vivo  ograbadas? Saludos, <nombre>."
+m03,formulario,modalidad,"Buen día, me llamo <nombre>. ¿Las sesiones son en vivo o grabadas? mi cel <telefono>"
+m03,formulario,modalidad,"buen día, me llamo carlos pérez. las sesiones son en vivo o grabadas mi correo es <correo>"
+m03,formulario,modalidad,"buen daí, me llamo carlos pérez. las sesiones son en vivo o grabadas mi cel <telefono>"
+m03,formulario,modalidad,"Me enteré por redes. ¿Las sesiones son en vivo o grabadas? Saludos, <nombre>."
+m03,formulario,modalidad,Buenas tardes. ¿Las sesiones son en vivo o grabadas? Gracias.
+m03,whatsapp,modalidad,"soya lumno, las sesiones son en vivo o grabadas"
+m03,whatsapp,modalidad,trabajo tiempo completo y las sesiones son en vivo o grabadas gracias.
+m03,correo,modalidad,"Buen día, me llamo <nombre>. ¿Las sesiones son en vivo o grabadas? Gracias."
+m04,correo,modalidad,"Soy <nombre>, aspirante. ¿Puedo estudiar mientras trabajo tiempo completo? Gracias."
+m04,correo,modalidad,Me enteré por redes. ¿Puedo estudiar mientras trabajo tiempo completo? mi cel <telefono>
+m04,formulario,modalidad,Una pregunta: ¿Puedo estudiar mientras trabajo tiempo completo? Mi correo es <correo>
+m04,formulario,modalidad,"Soy alumno, ¿Puedo estudiar mientras trabajo tiempo completo? Mi correo es <correo>"
+m04,formulario,modalidad,"Disculpe, ¿Puedo estudiar mientras trabajo tiempo completo? Saludos, <nombre>."
+m04,formulario,modalidad,Me enteré por redes. ¿Puedo estudiar mientras trabajo tiempo completo? Quedo atento.
+m04,whatsapp,modalidad,"trabajo tiempo completo y puedo estudiar mientras trabajo tiempo completo saludos, ana lópez."
+m04,correo,modalidad,"Trabajo tiempo completo y ¿Puedo estudiar mientras trabajo tiempo completo? Saludos, <nombre>."
+m04,whatsapp,modalidad,"Hola, ¿Puedo estudiar mientras rtabajo tiempo completo? Quedo atento."
+m04,whatsapp,modalidad,me enteré por redes. puedo estudiar imentras trabajo tiempo completo
+m04,whatsapp,modalidad,Una pregunta: ¿Puedo estudiar mientras trabajo tiempo completo?
+m04,correo,modalidad,"Buen día, me llamo <nombre>. ¿Puedo estudiar mientras trabajo tiempo completo? Saludos, <nombre>."
+m05,formulario,modalidad,Una pregunta: ¿Las clases son entre semana o en fin de semana? Gracias.
+m05,formulario,modalidad,"Disculpe, ¿Las clases son entre semana o en fin de semana?"
+m05,correo,modalidad,Trabajo tiempo completo y ¿Las clases son entre semana o en fin de semana? Mi correo es <correo>
+m05,formulario,modalidad,"¿Las clases son entre semana o en fin de semana? Saludos, <nombre>."
+m05,correo,modalidad,"Soy alumno, ¿Las clases son entre semana o en fin de semana? Quedo atento."
+m05,whatsapp,modalidad,"Buenas tardes. ¿Las clases son entre semana o en fin de semana? Saludos, <nombre>."
+m05,correo,modalidad,Trabajo tiempo completo y ¿Las clases son entre semana o en fin de semana? Quedo atento.
+m05,whatsapp,modalidad,me enteré por redes. las clases son entre semana o en fin de seamna
+m05,whatsapp,modalidad,Me entere por redes. ¿Las clases son entre semana o en fin de semana? Gracias.
+m05,whatsapp,modalidad,trabajo tiempo completo y las clases son entre semana o en fin de semana
+m05,formulario,modalidad,Me enteré por redes. ¿Las clases son entre semana o en fin de semana? Quedo atento.
+m06,correo,modalidad,"Trabajo tiempo completo y ¿Cuántas horas a la semana se le dedica? Saludos, <nombre>."
+m06,formulario,modalidad,Buenas tardes. ¿Cuántas horas a la semana se le dedica? Mi matrícula es <matricula>.
+m06,correo,modalidad,"Buen día, me llamo <nombre>. ¿Cuántas horas a la semana se le dedica? Mi correo es <correo>"
+m06,correo,modalidad,Una pregunta: ¿Cuántas horas a la semana se le dedica? Quedo atento.
+m06,whatsapp,modalidad,Trabajo tiempo completo y ¿Cuántas horas a la semana se le dedica? Quedo atento.
+m06,formulario,modalidad,"Hola, ¿Cuántas horas a la semana se le dedica? Mi matrícula es <matricula>."
+m06,whatsapp,modalidad,trabajo tiempo completo y cuantas horas a la semana se le dedica quedo atento.
+m06,whatsapp,modalidad,Trabajo tiempo completo y ¿Cuántas horas a la semana se le dedica?
+m06,correo,modalidad,"Buen día, me llamo <nombre>. ¿Cuántas horas a la semana se le dedica? Gracias."
+m06,correo,modalidad,"cuantas horas a la semanas e le dedica saludos, ana lopez."
+m06,correo,modalidad,Trabajo tiempo completo y ¿Cuántas horas a la semana se le dedica? mi cel <telefono>
+m06,whatsapp,modalidad,"disculpe, cuantas horas a la semana se le dedica mi cel <telefono>"
+m07,whatsapp,modalidad,"Hola, ¿Hay que ir al campus en algun momento? Gracias."
+m07,whatsapp,modalidad,"trabajo tiempo cmopleto y hay que ir al campus en algún momento saludos, ana lópez."
+m07,formulario,modalidad,Me enteré por redes. ¿Hay que ir al campus en algún momento? Mi matrícula es <matricula>.
+m07,formulario,modalidad,"Buen día, me llamo <nombre>. ¿Hay que ir al campus en algún momento? Mi correo es <correo>"
+m07,formulario,modalidad,buenas tardes. hay que ir al campus en algun momento
+m07,whatsapp,modalidad,"Soy alumno, ¿Hay que ir al campus en algún momento? Quedo atento."
+m07,formulario,modalidad,"Soy <nombre>, aspirante. ¿Hay que ir al campus en algún momento? Gracias."
+m07,formulario,modalidad,"Disculpe, ¿Hay que ir al campus en algún momento?"
+m07,correo,modalidad,"Soy <nombre>, aspirante. ¿Hay que ir al campus en algún momento?"
+m07,whatsapp,modalidad,trabajo tiempo completo y hay que ir al campus en algun momneto mi correo es <correo>
+m07,whatsapp,modalidad,"Hola, ¿Hay que ir al campus en algún momento? Mi matrícula es <matricula>."
+m07,whatsapp,modalidad,"Trabajo tiempo completo y ¿Hay que ir al campus en algún momento? Saludos, <nombre>."
+m08,whatsapp,modalidad,Buenas tardes. ¿Qué plataforma usan para las clases? Quedo atento.
+m08,whatsapp,modalidad,Una pregunta: ¿Qué plataforma usan para las clases? mi cel <telefono>
+m08,whatsapp,modalidad,"Soy alumno, ¿Qué plataforma usan para las clases? Saludos, <nombre>."
+m08,whatsapp,modalidad,"Soy <nombre>, aspirante. ¿Que plataforma usan para las clases? Mi correo es <correo>"
+m08,correo,modalidad,"¿Que plataforma usan para las clases? Saludos, <nombre>.z"
+m08,formulario,modalidad,"Hola, ¿Qué plataforma usan para las clases?"
+m08,formulario,modalidad,"Disculpe, ¿Qué plataforma usan para las clases? Quedo atento."
+m08,whatsapp,modalidad,"soy mariana ruiz, aspirante. que plataforma usan para las clases mi correo es <correo>"
+m08,whatsapp,modalidad,"Soy <nombre>, aspirante. ¿Que plataforma usan para las clases? Quedo atento."
+m08,formulario,modalidad,"Soy <nombre>, aspirante. ¿Qué plataforma usan para las clases? Quedo atento."
+m08,correo,modalidad,"Soy alumno, ¿Qué plataforma usan para las clases? Gracias."
+m08,correo,modalidad,Una pregunta: ¿Que plaatforma usan para las clases? Gracias.
+m09,whatsapp,modalidad,puedo cambiarme de modalidad presencial a en línea gracias.
+m09,correo,modalidad,Trabajo tiempo completo y ¿Puedo cambiarme de modalidad presencial a en línea? Gracias.
+m09,formulario,modalidad,"Una pregunta: ¿Puedo cambiarme de modalidad presencial a en línea? Saludos, <nombre>."
+m09,formulario,modalidad,¿Puedo cambiarme de modalidad presencial a en línea?
+m09,correo,modalidad,Una pregunta: ¿Puedo cambiarme de modalidad presencial a en línea? mi cel <telefono>
+m09,correo,modalidad,"Buen día, me llamo <nombre>. ¿Puedo cambiarme de modalidad presencial a en línea? Mi matrícula es <matricula>."
+m09,formulario,modalidad,Trabajo tiempo completo y ¿Puedo cambiarme de modalidad presencial a en línea? Mi correo es <correo>
+m09,whatsapp,modalidad,puedo cambiarme de modalidad presencial a en línea mi matrícula es <matricula>.
+m09,formulario,modalidad,"soy alumno, puedo cambiarme dem odalidad presencial a en línea"
+m09,formulario,modalidad,Buenas tardes. ¿Puedo cambiarme de modalidad presencial a en línea? mi cel <telefono>
+m09,formulario,modalidad,"Soy <nombre>, aspirante. ¿Puedo cambiarme de modalidad presencial a en línea? Mi correo es <correo>"
+m09,whatsapp,modalidad,puedo cambiarme de modalidad presencial a en linea mi correo es <correo>
+m10,whatsapp,modalidad,"Hola, ¿Las clases sincronas son obligatorias?"
+m10,whatsapp,modalidad,"Soy alumno, ¿Las clases sincronas son obligatorias? mi cel <telefono>"
+m10,formulario,modalidad,"Soy <nombre>, aspirante. ¿Las clases síncronas son obligatorias? Saludos, <nombre>."
+m10,whatsapp,modalidad,Trabajo tiemop completo y ¿Las clases sincronas son obligatorias? Quedo atento.
+m10,whatsapp,modalidad,las clases sincronas son obligatorias
+m10,whatsapp,modalidad,Una pregunta: ¿Las clases síncronas son obligatorias? Gracias.
+m10,formulario,modalidad,Trabajo tiempo completo y ¿Las clases síncronas son obligatorias? mi cel <telefono>
+m10,whatsapp,modalidad,"soy alumno, las clases síncronas son obligatorias m icorreo es <correo>"
+m10,formulario,modalidad,"Soy alumno, ¿Las clases síncronas son obligatorias? Quedo atento."
+m10,correo,modalidad,¿Las clases síncronas son obligatorias? Mi matrícula es <matricula>.
+m10,formulario,modalidad,"Disculpe, ¿Las clases síncronas son obligatorias? Saludos, <nombre>."
+m10,formulario,modalidad,"Soy alumno, ¿Las clases sincronas son obligatorias? Gracias."
+s01,correo,seriacion,"Buen día, me llamo <nombre>P érez. ¿Qué materias están seriadas? Mi matrícula es <matricula>."
+s01,correo,seriacion,"Soy <nombre>, aspirante. ¿Qué materias están seriadas? Quedo atento."
+s01,correo,seriacion,Me enteré por redes. ¿Qué materias están seriadas? Gracias.
+s01,correo,seriacion,"Soy <nombre>, aspirante. ¿Que materisa estan seriadas? Gracias."
+s01,correo,seriacion,"Una pregunta: ¿Que materias estan seriadas? Saludos, <nombre>."
+s01,correo,seriacion,¿Qué materias están seriadas?
+s01,correo,seriacion,Buenas tardes. ¿Qué materias están seriadas? Mi matrícula es <matricula>.
+s01,whatsapp,seriacion,Una pregunta: ¿Qué materias están seriadas? Mi matrícula es <matricula>.
+s01,formulario,seriacion,"Buen día, me llamo <nombre>. ¿Qué materias están seriadas? Gracias."
+s01,whatsapp,seriacion,buenas tardes. qué materias están seriadas mi matrícula es <matricula>.
+s01,correo,seriacion,"Disculpe, ¿Qué materias están seriadas? Mi matrícula es <matricula>."
+s01,correo,seriacion,"Buen día, me llamo <nombre>. ¿Qué materias están seriadas?"
+s02,formulario,seriacion,"Soy alumno, ¿Puedo llevar una materia sin haber aprobado la anterior?"
+s02,whatsapp,seriacion,"buen dia, me llamo carlos perez. puedo llevar una materia sin haber aprobado la anterior mi cel <telefono>"
+s02,correo,seriacion,Trabajo tiempo completo y ¿Puedo llevar una materia sin haber aprobado la anterior?
+s02,correo,seriacion,"Disculpe, ¿Puedo llevar una materia sin haber aprobado la anterior? Mi correo es <correo>"
+s02,correo,seriacion,"Hola, ¿Puedo llevar una materia sin haber aprobado la anterior? Mi correo es <correo>"
+s02,correo,seriacion,"Soy <nombre>, aspirante. ¿Puedo llevar una materia sin haber aprobado la anterior? Gracias."
+s02,correo,seriacion,"Disculpe, ¿Puedo llevar una materia sin haber aprobado la anterior? Quedo atento."
+s02,formulario,seriacion,¿Puedo llevar una materia sin haber aprobado la anterior? Mi matrícula es <matricula>.
+s02,correo,seriacion,Me enteré por redes. ¿Puedo llevar una materia sin haber aprobado la anterior? mi cel <telefono>
+s02,formulario,seriacion,"Hola, ¿Puedo llevar una materia sin haber aprobado la anterior? Quedo atento."
+s03,formulario,seriacion,"Soy alumno, ¿Cuál es el prerrequisito de la materia de aprendizaje automático? Mi correo es <correo>"
+s03,whatsapp,seriacion,"Trabajo tiempo completo y ¿Cual es el prerrequisito de la materia de aprendizaje automatico? Saludos, <nombre>."
+s03,formulario,seriacion,"Disculpe, ¿Cuál es el prerrequisito de la materia de aprendizaje automático? Gracias."
+s03,whatsapp,seriacion,"soy mariana ruiz, aspirante. cuál es el prerrequisito de la materia de aprendizaje automático quedo atento."
+s03,formulario,seriacion,"Buen día, me llamo <nombre>. ¿Cuál es el prerrequisito de la materia de aprendizaje automático? Quedo atento."
+s03,formulario,seriacion,"Disculpe, ¿Cuál es el prerrequisito de la materia de aprendizaje automático?"
+s03,whatsapp,seriacion,"disculpe, cuál es el prerrequisito de la materia de aprendizaje automático mi matrícula es <matricula>."
+s03,formulario,seriacion,"Hola, ¿Cuál es el prerrequisito de la materia de aprendizaje automático? Mi matrícula es <matricula>."
+s03,formulario,seriacion,"Soy <nombre>, aspirante. ¿Cuál es el prerrequisito de la materia de aprendizaje automático? mi cel <telefono>"
+s03,formulario,seriacion,Una pregunta: ¿Cuál es el prerrequisito de la materia de aprendizaje automático?
+s03,whatsapp,seriacion,"hola, cual es el prerrequisito de la materia de aprendizaje automatico saludos, ana lopez."
+s03,formulario,seriacion,"Disculpe, ¿Cuál es el prerrequisito de la materia de aprendizaje automático? Saludos, <nombre>."
+s04,formulario,seriacion,"Soy <nombre>, aspirante. ¿En qué orden se deben cursar las materias? Mi matrícula es <matricula>."
+s04,whatsapp,seriacion,¿En qué orden se deben cursar las materias? mi cel <telefono>
+s04,correo,seriacion,me enteré por redes. en qué orden se deben cursar las materias mi correo es <correo>
+s04,whatsapp,seriacion,Trabajo tiempo completo y ¿En que orden se deben cursar las materias? Quedo atento.
+s04,formulario,seriacion,"Soy alumno, ¿En qué orden se deben cursar las materias? Mi correo es <correo>"
+s04,formulario,seriacion,Trabajo tiempo completo y ¿En qué orden se deben cursar las materias? mi cel <telefono>
+s04,correo,seriacion,"soy mariana ruiz, aspirante. en que orden se deben cursar las materias saludos, ana lopez."
+s04,correo,seriacion,Trabajo tiempo completo y ¿En qué orden se deben cursar las materias? Mi correo es <correo>
+s04,whatsapp,seriacion,Buenas tardes. ¿En que orden se deben cursar las materias? Gracias.
+s04,formulario,seriacion,Trabajo tiempo completo y ¿En qué orden se deben cursar las materias? Gracias.
+s04,correo,seriacion,Una pregunta: ¿En qué orden se deben cursar las materias? Gracias.
+s04,formulario,seriacion,"buen día, me llamo carlos pérez. en qué orden s edeben cursar las materias gracias."
+s05,whatsapp,seriacion,"Disculpe, ¿Puedo adelantar materias del siguiente periodo? Mi correo es <correo>"
+s05,formulario,seriacion,Trabajo tiempo completo y ¿Puedo adelantar materias del siguiente periodo?
+s05,whatsapp,seriacion,"Hola, ¿Puedo adelantar materias del siguiente periodo? Mi matírcula es <matricula>."
+s05,correo,seriacion,Me enteré por redes. ¿Puedo adelantar materias del siguiente periodo? mi cel <telefono>
+s05,whatsapp,seriacion,"disculpe, puedo adelantar materias del siguiente periodo mi correo es <correo>"
+s05,whatsapp,seriacion,¿Puedo adelantar materias del siguiente periodo? Mi correo es <correo>
+s05,correo,seriacion,"Trabajo tiempo completo y ¿Puedo adelantar materias del siguiente periodo? Saludos, <nombre>."
+s05,whatsapp,seriacion,¿Puedo adelantar materias del siguiente periodo? Gracias.
+s05,whatsapp,seriacion,"Hola, ¿Puedo adelantar materias del siguiente periodo? Gracias."
+s05,whatsapp,seriacion,¿Puedo adelantar materiasd el siguiente periodo?
+s05,correo,seriacion,Me enteré por redes. ¿Puedo adelantar materias del siguiente periodo? Mi matrícula es <matricula>.
+s05,whatsapp,seriacion,"Buen día, me llamo <nombre>. ¿Puedo adelantar materias del siguiente periodo?"
+s06,whatsapp,seriacion,buenas tardes. si repruebo una materia me atrasa las seriadas mi correo es <correo>
+s06,correo,seriacion,"Soy alumno, Si repruebo una materia ¿me atrasa las seriadas? Saludos, <nombre>."
+s06,correo,seriacion,"Soy <nombre>, aspirante. Si repruebo una materia ¿me atrasa las seriadas? Gracias."
+s06,correo,seriacion,"Soy alumno, Si repruebo una materia ¿me atrasa las seriadas?"
+s06,whatsapp,seriacion,Trabajo tiempo completo y Si repruebo una materia ¿me atrasa las seriadas? Gracias.
+s06,whatsapp,seriacion,si repruebo un amateria me atrasa las seriadas gracias.
+s06,formulario,seriacion,"Buen día, me llamo <nombre>. Si repruebo una materia ¿me atrasa las seriadas? Saludos, <nombre>."
+s06,whatsapp,seriacion,Si repruebo una materia ¿me atrasa las seriadas? Mi correo es <correo>
+s06,formulario,seriacion,"Trabajo tiempo completo y Si repruebo una materia ¿me atrasa las seriadas? Saludos, <nombre>."
+s06,correo,seriacion,Me enteré por redes. Si repruebo una materia ¿me atrasa las seriadas? Quedo atento.
+s06,formulario,seriacion,si repruebo una materia me atrasa las seriadas quedo atento.
+s07,correo,seriacion,"Buen día, me llamo <nombre>. ¿Hay materias que se tengan que llevar juntas? Quedo atento."
+s07,correo,seriacion,Me enteré por redes. ¿Hay materias que se tengan que llevar juntas? Mi correo es <correo>
+s07,correo,seriacion,"Soy alumno, ¿Hay materias que se tengan que llevar juntas?"
+s07,correo,seriacion,"hola, hay materias q se tengan q llevar juntas mi cel <telefono>"
+s07,correo,seriacion,Me enteré por redes. ¿Hay materias que se tengan que llevar juntas?
+s07,correo,seriacion,"Disculpe, ¿Hay materias que se tengan que llevar juntas? Gracias."
+s07,formulario,seriacion,"Disculpe, ¿Hay materias que se tengan que llevar juntas? Saludos, <nombre>."
+s07,correo,seriacion,Buenas tardes. ¿Hay materias que se tengan que llevar juntas? mi cel <telefono>
+s07,whatsapp,seriacion,"Soy alumno, ¿Hay materias q se tengan q llevar juntas? Mi correo es <correo>"
+s07,correo,seriacion,¿Hay materias que se tengan que llevar juntas? Quedo atento.
+s07,correo,seriacion,"Me enteré por redes. ¿Hay materias que se tengan que llevar juntas? Saludos, <nombre>."
+s07,correo,seriacion,Una pregunta: ¿Hay materias que se tengan que llevar juntas? Quedo atento.
+s08,whatsapp,seriacion,"soy alumno, puedo inscribir la materia avanzada sin la de fundamentos"
+s08,whatsapp,seriacion,"Me entere por redes. ¿Puedo inscribir la materia avanzada sin la de fundamentos? Saludos, <nombre>."
+s08,whatsapp,seriacion,Trabajo tiempo completo y ¿Puedo inscribir la materia avanzada sin la de fundamentos? Mi correo es <correo>
+s08,correo,seriacion,"Buen día, me llamo <nombre>. ¿Puedo inscribir la materia avanzada sin la de fundamentos? Mi correo es <correo>"
+s08,correo,seriacion,"Buen día, me llamo <nombre>. ¿Puedo inscribir la materia avanzada sin la de fundamentos? Saludos, <nombre>."
+s08,formulario,seriacion,"Soy alumno, ¿Puedo inscribir la materia avanzada sin la de fundamentos? Mi matrícula es <matricula>."
+s08,formulario,seriacion,una pregunta: puedo inscribir la materia avanzada sin la de fundamentos mi correo es <correo>
+s08,whatsapp,seriacion,"Soy <nombre>, aspirante. ¿Puedo inscribir la materia avanzada sin la de fundamentos? Quedo atento."
+s08,formulario,seriacion,"Disculpe, ¿Puedo inscribir la materia avanzada sin la de fundamentos? Mi matrícula es <matricula>."
+s08,correo,seriacion,Trabajo tiempo completo y ¿Puedo inscribir la materia avanzada sin la de fundamentos? Mi matrícula es <matricula>.
+s08,formulario,seriacion,"Disculpe, ¿Puedo inscribir la materia avanzada sin la de fundamentos? Mi correo es <correo>"
+s08,formulario,seriacion,"Me enteré por redes. ¿Puedo inscribir la materia avanzada sin la de fundamentos? Saludos, <nombre>."
+s09,formulario,seriacion,"Una pregunta: ¿Qué pasa si no llevo las materias en el orden del plan? Saludos, <nombre>."
+s09,correo,seriacion,Trabajo tiempo completo y ¿Qué pasa si no llevo las materias en el orden del plan? Gracias.
+s09,whatsapp,seriacion,"buen día, me llamo carlos pérez. qué pasa si no llevo las materias en el orden del plan mi matrícula es <matricula>."
+s09,whatsapp,seriacion,Trabajo tiempo completo y ¿Que pasa si no llevo las materias en el orden del plan? Gracias.
+s09,correo,seriacion,¿Que pasa si no llevo las materias en el orden del plan?
+s09,whatsapp,seriacion,qué pasa si no llevo las materias en el orden del plan quedo atento.
+s09,correo,seriacion,"Soy alumno, ¿Qué pasa si no llevo las materias en el orden del plan? mi cel <telefono>"
+s09,formulario,seriacion,Buenas tardes. ¿Qué pasa si no llevo las materias en el orden del plan? Mi correo es <correo>
+s09,whatsapp,seriacion,Una pregunta: ¿Que pasa si no llevo las materias en el orden del plan? im cel <telefono>
+s09,correo,seriacion,trabajo tiempo completo y que pas asi no llevo las materias en el orden del plan
+s09,formulario,seriacion,Trabajo tiempo completo y ¿Que pasa si no llevo las materias en el orden del plan? Mi correo es <correo>
+s09,correo,seriacion,"Soy alumno, ¿Qué pasa si no llevo las materias en el orden del plan? Gracias."
+s10,whatsapp,seriacion,la seriación es obligtaoria o me la pueden dispensar mi cel <telefono>
+s10,whatsapp,seriacion,"Buen día, me llamo <nombre>. ¿La seriación es obligatoria o me la pueden dispensar? Gracias."
+s10,correo,seriacion,¿La seriación es obligatoria o me la pueden dispensar? Quedo atento.
+s10,whatsapp,seriacion,trabajo tiempo completo y la seriacion es obligatoria o me la pueden dispensar mi cel <telefono>
+s10,whatsapp,seriacion,"hola, la seriacion es obligatoria o me la pueden dispensar saludos, ana lopez."
+s10,correo,seriacion,"Disculpe, ¿La seriación es obligatoria o me la pueden dispensar? Quedo atento."
+s10,whatsapp,seriacion,"Soy alumno, ¿La seriación es obligatoria o me la pueden dispensar? Mi matrícula es <matricula>."
+s10,correo,seriacion,"Trabajo tiempo completo y ¿La seriación es obligatoria o me la pueden dispensar? Saludos, <nombre>."
+s10,whatsapp,seriacion,¿La seriacion es obligatoria o me la pueden dispensar? Quedo atento.
+s10,formulario,seriacion,¿La seriación es obligatoria o me la pueden dispensar? Gracias.
+s10,correo,seriacion,"Disculpe, ¿La seriación es obligatoria o me la pueden dispensar? Mi matrícula es <matricula>."
+s10,whatsapp,seriacion,Trabajo tiempo completo y ¿La seriacion es obligatoria o me la pueden dispensar?
+v01,whatsapp,revalidacion,trabajo tiempo completo y puedo revalidar materias de otra maestría quedo atento.
+v01,formulario,revalidacion,"me entere por redes. puedo revalidar materia sde otra maestria saludos, ana lopez."
+v01,whatsapp,revalidacion,Buenas tardes. ¿Puedo revalidar materias de otra maestria?
+v01,whatsapp,revalidacion,"Soy <nombre>, aspirante. ¿Puedo revalidar materias de otra maestría? Mi correo es <correo>"
+v01,whatsapp,revalidacion,"Beun día, me llamo <nombre>. ¿Puedo revalidar materias de otra maestría? Saludos, <nombre>."
+v01,whatsapp,revalidacion,"Buend ía, me llamo <nombre>. ¿Puedo revalidar materias de otra maestría? Mi matrícula es <matricula>."
+v01,whatsapp,revalidacion,me enteré por redes. puedo revalidar materias de otra maestría mi matrícula e sa01234567.
+v01,correo,revalidacion,Una pregunta: ¿Puedo revalidar materias de otra maestría? Mi matrícula es <matricula>.
+v01,whatsapp,revalidacion,"Hola, P¿uedo revalidar materias de otra maestría? Quedo atento."
+v01,whatsapp,revalidacion,"soy alumno, puedo revalidar materias de otra maestria"
+v01,correo,revalidacion,Buenas tardes. ¿Puedo revalidar materias de otra maestría? Quedo atento.
+v01,formulario,revalidacion,"Soy <nombre>, aspirante. ¿Puedo revalidar materias de otra maestría? Gracias."
+v02,whatsapp,revalidacion,"Hola, ¿Cómo funciona el proceos de equivalencia de estudios? Saludos, <nombre>."
+v02,correo,revalidacion,"soy mariana ruiz, aspirante. como funciona el proceso de equivalencia de estudios saludos, ana lopez."
+v02,whatsapp,revalidacion,"soy alumno, como funciona el proceso de equivalencia de estudios"
+v02,formulario,revalidacion,"Buen día, me llamo <nombre>. ¿Cómo funciona el proceso de equivalencia de estudios? Mi matrícula es <matricula>."
+v02,whatsapp,revalidacion,Buenas tardes. ¿Como funciona el proceso de equivalencia de estudios? Gracias.
+v02,formulario,revalidacion,¿Cómo funciona el proceso de equivalencia de estudios?
+v02,whatsapp,revalidacion,Trabajo tiempo completo y ¿Cómo funciona el proceso de equivalencia de estudios? mi cel <telefono>
+v02,correo,revalidacion,cómo funciona el proceso de equivalencia de estudios mi correo es <correo>
+v02,whatsapp,revalidacion,"soy mariana ruiz, aspirante. como funciona el proceso de equivalencia de estudios quedo atento."
+v02,whatsapp,revalidacion,"disculpe, cómo funciona el proceso de equivalencia de estudios mi correo es <correo>"
+v02,formulario,revalidacion,¿Cómo funciona el proceso de equivalencia de estudios? mi cel <telefono>
+v03,correo,revalidacion,"Buen día, me llamo <nombre>. ¿Cuántas materias me pueden revalidar como máximo?"
+v03,correo,revalidacion,"Buenas tardes. ¿Cuántas materias me pueden revalidar como máximo? Saludos, <nombre>."
+v03,whatsapp,revalidacion,"buen dia, me llamo carlos perez. cuantas matreias me pueden revalidar como maximo mi matricula es <matricula>."
+v03,formulario,revalidacion,"Soy alumno, ¿Cuantas materias me pueden revalidar como maximo?"
+v03,formulario,revalidacion,"¿Cuántas materias me pueden revalidar como máximo? Saludos, <nombre>."
+v03,correo,revalidacion,¿Cuántas materias me pueden revalidar como máximo? Gracias.
+v03,correo,revalidacion,"Hola, ¿Cuántas materias me pueden revalidar como máximo? mi cel <telefono>"
+v03,formulario,revalidacion,¿Cuántas materias me pueden revalidar como máximo? Quedo atento.
+v03,formulario,revalidacion,¿Cuántas materias me pueden revalidar como máximo? Mi correo es <correo>
+v03,whatsapp,revalidacion,"una pregunta: cuántasm aterias me pueden revalidar como máximo saludos, ana lópez."
+v03,formulario,revalidacion,Una pregunta: ¿Cuántas materias me pueden revalidar como máximo?
+v03,whatsapp,revalidacion,"buen dia, me llamo carlos perez. cuantas materias me pueden revalidar como maximo mi correo es <correo>"
+v04,whatsapp,revalidacion,"Buen día, me llamo <nombre>. ¿Qué documentos necesito para la revalidación? Mi matrícula es <matricula>."
+v04,correo,revalidacion,Me enteré por redes. ¿Qué documentos necesito para la revalidación? mi cel <telefono>
+v04,formulario,revalidacion,¿Qué documentos necesito para la revalidación? Gracias.
+v04,formulario,revalidacion,"Disculpe, ¿Qué documentos necesito para la revalidación? Gracias."
+v04,correo,revalidacion,"Soy alumno, ¿Qué documentos necesito para la revalidación? mi cel <telefono>"
+v04,formulario,revalidacion,¿Qué documentos necesito para la revalidación? Quedo atento.
+v04,correo,revalidacion,"Hola, ¿Qué documentos necesito para la revalidación?"
+v04,whatsapp,revalidacion,¿Qué documentos necesito para la revalidación?
+v04,whatsapp,revalidacion,Una pregunta: ¿Que documentos necesito para la revalidacion? Mi matricula es <matricula>.
+v04,whatsapp,revalidacion,qué documentos necesito para la revalidación gracias.
+v04,formulario,revalidacion,"Disculpe, ¿Qu édocumentos necesito para la revalidación? Mi matrícula es <matricula>."
+v04,whatsapp,revalidacion,trabajo tiempo completo y qué documentos necesito para la revalidación mi matrícula es <matricula>.
+v05,whatsapp,revalidacion,"Soy alumno, ¿Cuánto cuesta el trámite de equivalencia?"
+v05,formulario,revalidacion,Trabajo tiempo completo y ¿Cuánto cuesta el trámite de equivalencia? Quedo atento.
+v05,correo,revalidacion,"Una pregunta: ¿Cuánto cuesta el trámite de equivalencia? Saludos, <nombre>."
+v05,formulario,revalidacion,una pregunta: cuanto cuesta el tramite de equivalencia mi cel <telefono>
+v05,correo,revalidacion,"soy mariana ruiz, aspirante. cuánto cuesta e ltrámite de equivalencia saludos, ana lópez."
+v05,whatsapp,revalidacion,"hola, cuánto cuesta el trámite de equivalencia mi matrícual es <matricula>."
+v05,correo,revalidacion,"Me enteré por redes. ¿Cuánto cuesta el trámite de equivalencia? Saludos, <nombre>."
+v05,correo,revalidacion,Trabajo tiempo completo y ¿Cuánto cuesta el trámite de equivalencia? iM matrícula es <matricula>.
+v05,correo,revalidacion,"Soy alumno, ¿Cuánto cuesta el trámite de equivalencia? Mi matrícula es <matricula>."
+v05,formulario,revalidacion,¿Cuánto cuesta el trámite de equivalencia?
+v05,correo,revalidacion,Una pregunta: ¿Cuánto cuesta el trámite de equivalencia?
+v05,whatsapp,revalidacion,cuánto cuesta el trámite de equivalencia mi cel <telefono>
+v06,whatsapp,revalidacion,"hola, estudie un diplomado cuenta para revalidar materias mi correo es <correo>"
+v06,formulario,revalidacion,"Buen día, me llamo <nombre>. Estudié un diplomado ¿cuenta para revalidar materias?"
+v06,formulario,revalidacion,"Estudié un diplomado ¿cuenta para revalidar materias? Saludos, <nombre>."
+v06,correo,revalidacion,Estudié un diplomado ¿cuenta para revalidar materias?
+v06,formulario,revalidacion,"Soy alumno, Estudié un diplomado ¿cuenta para revalidar materias? Saludos, <nombre>."
+v06,formulario,revalidacion,Buenas tardes. Estudié un diplomado ¿cuenta para revalidar materias? Mi matrícula es <matricula>.
+v06,correo,revalidacion,"Disculpe, Estudié un diplomado ¿cuenta para revalidar materias? Mi matrícula es <matricula>."
+v06,correo,revalidacion,Trabajo tiempo completo y Estudié un diplomado ¿cuenta para revalidar materias? Mi matrícula es <matricula>.
+v06,correo,revalidacion,"Hola, Estudié un diplomado ¿cuenta para revalidar materias? Mi matrícula es <matricula>."
+v06,formulario,revalidacion,Buenas tardes. Estudié un diplomado ¿cuenta para revalidar materias?
+v06,formulario,revalidacion,"disculpe, estudié un diplomado cuenta para revalidar materias mi matrícula es <matricula>."
+v07,whatsapp,revalidacion,nua pregunta: revalidan materias cursadas en el extranjero
+v07,formulario,revalidacion,"Buen día, me llamo <nombre>. ¿Revalidan materias cursadas en el extranjero? Mi matrícula es <matricula>."
+v07,formulario,revalidacion,Una pregunta: ¿Revalidan materias cursadas en el extranjero? Quedo atento.
+v07,formulario,revalidacion,Una pregunta: ¿Revalidan materias cursadas en el extranjero? Gracias.
+v07,whatsapp,revalidacion,"Soy <nombre>, aspirante. ¿Revalidan materias cursadas en el extranjero? Gracias."
+v07,formulario,revalidacion,"soy alumno, revalidan materias cursadas en el extranjero mi correo es <correo>"
+v07,whatsapp,revalidacion,¿Revalidan materias cursadas en el extranjero? Quedo atento.
+v07,whatsapp,revalidacion,"buen día, me llamo carlos pérez. revalidan materias cursadas en el extranjero mi matrícula es <matricula>."
+v07,formulario,revalidacion,Trabajo tiempo completo y ¿Revalidan materias cursadas en el extranjero ?Mi matricula es <matricula>.
+v07,whatsapp,revalidacion,"buen día, me llamo carlos pérez. revalidan materias cursadas en el extranjero mi correo es <correo>"
+v07,whatsapp,revalidacion,"Soy <nombre>, aspirante. ¿Revalidan materias cursadas en el extranjero? Saludos, <nombre>."
+v07,formulario,revalidacion,"Soy alumno, ¿Revalidan materias cursadas en el extranjero? Saludos, <nombre>."
+v08,correo,revalidacion,"Disculpe, ¿Cuánto tarda el dictamen de revalidación?"
+v08,formulario,revalidacion,Me enteré por redes. ¿Cuánto tarda el dictamen de revalidación? Gracias.
+v08,whatsapp,revalidacion,"me entere por redes. cuanto tarda el dictamen de revalidacion slaudos, ana lopez."
+v08,correo,revalidacion,Trabajo tiempo completo y ¿Cuánto tarda el dictamen de revalidación? Mi correo es <correo>
+v08,formulario,revalidacion,"Disculpe, ¿Cuánto tarda el dictamen de revalidación? mi cel <telefono>"
+v08,whatsapp,revalidacion,"Una pregunta: ¿Cuanto tarda el dictamen de revalidacion? Saludos, <nombre> aLopez."
+v08,whatsapp,revalidacion,me entere por redes. cuanto tarda el dictamen de revalidacion gracias.
+v08,formulario,revalidacion,"Buen día, me llamo <nombre>. ¿Cuánto tarda el dictamen de revalidación? Quedo atento."
+v08,correo,revalidacion,Buenas tardes. ¿Cuánto tarda el dictamen de revalidación?
+v08,formulario,revalidacion,"Buen día, me llamo <nombre>. ¿Cuánto tarda el dictamen de revalidación? Gracias."
+v08,whatsapp,revalidacion,"buen dia, me llamo carlos perez. cuanto tarda el dictamen de revalidacion mi cel <telefono>"
+v08,formulario,revalidacion,Me enteré por redes. ¿Cuánto tarda el dictamen de revalidación? mi cel <telefono>
+v09,correo,revalidacion,"Soy <nombre>, aspirante. ¿Puedo pedir equivalencia después de inscribirme?"
+v09,correo,revalidacion,"Disculpe, ¿Puedo pedir equivalencia después de inscribirme? Quedo atento."
+v09,correo,revalidacion,Una pregunta: ¿Puedo pedir equivalencia después de inscribirme? Mi correo es <correo>
+v09,whatsapp,revalidacion,"Me entere por redes. ¿Puedo pedir equivalencia despues de inscribirme? Saludos, <nombre>."
+v09,whatsapp,revalidacion,trabajo tiempo completo y puedo pedir equivalencia después de inscribirme gracias.
+v09,formulario,revalidacion,"Disculpe, ¿Puedo pedir equivalencia después de inscribirme? Mi matrícula es <matricula>."
+v09,formulario,revalidacion,"Una pregunta: ¿Puedo pedir equivalencia después de inscribirme? Saludos, <nombre>."
+v09,whatsapp,revalidacion,me enteré por redes. puedo pedir equivalencia después de inscribirme
+v09,whatsapp,revalidacion,"soy alumno, puedo pedir equivalencia despues de inscribirme mi matricula es <matricula>."
+v09,formulario,revalidacion,"Buen día, me llamo <nombre>. ¿Puedo pedir equivalencia después de inscribirme? Quedo atento."
+v09,correo,revalidacion,"Hola, ¿Puedo pedir equivalencia después de inscribirme? Mi correo es <correo>"
+v09,correo,revalidacion,"Hola, ¿Puedo pedir equivalencia después de inscribirme? Saludos, <nombre>."
+v10,whatsapp,revalidacion,"Buen dia, me llamo <nombre>. ¿Las materias revalidadas cuentan para el promedio? Gracias."
+v10,formulario,revalidacion,Buenas trades. ¿Las materias revalidadas cuentan para el promedio?
+v10,whatsapp,revalidacion,"disculpe, las materias revalidadas cuentan para el promedio mi cel <telefono>"
+v10,formulario,revalidacion,"Soy alumno, ¿Las materias revalidadas cuentan para el promedio?"
+v10,formulario,revalidacion,"Soy <nombre>, aspirante. ¿Las materias revalidadas cuentan para el promedio? Mi matricula es <matricula>."
+v10,formulario,revalidacion,Buenas tardes. ¿Las materias revalidadas cuentan para el promedio? mi cel <telefono>
+v10,formulario,revalidacion,"Soy <nombre>, aspirante. ¿Las materias revalidadas cuentan para el promedio?"
+v10,formulario,revalidacion,las materias revalidadas cuentan para el promedio quedo atento.
+v10,correo,revalidacion,Trabajo tiempo completo y ¿Las materias revalidadas cuentan para el promedio? Mi matrícula es <matricula>.
+v10,whatsapp,revalidacion,trabajo tiempo completo y las materias revalidadas cuentan para el promedio quedo atento.
+v10,correo,revalidacion,Una pregunta: ¿Las materias revalidadas cuentan para el promedio?
+v10,correo,revalidacion,"Me enteré por redes. ¿Las materias revalidadas cuentan para el promedio? Saludos, <nombre>."
+x01,whatsapp,caso_personal,Buenas tardes.M e cobraron dos veces la colegiatura ¿me pueden devolver un pago? Quedo atento.
+x01,formulario,caso_personal,Me cobraron dos veces la colegiatura ¿me pueden devolver un pago? mi cel <telefono>
+x01,formulario,caso_personal,"Buen día, me llamo <nombre>. Me cobraron dos veces la colegiatura ¿me pueden devolver un pago? mi cel <telefono>"
+x01,correo,caso_personal,Me cobraron dos veces la colegiatura ¿me pueden devolver un pago?
+x01,correo,caso_personal,Me enteré por redes. Me cobraron dos veces la colegiatura ¿me pueden devolver un pago? Gracias.
+x01,whatsapp,caso_personal,Trabajo tiempo completo y Me cobraron dos veces la colegiatura ¿me pueden edvolver un pago?
+x01,formulario,caso_personal,"Buen día, me llamo <nombre>. Me cobraron dos veces la colegiatura ¿me pueden devolver un pago? Gracias."
+x01,whatsapp,caso_personal,trabajo tiempo completo y me cobraron dos veces la colegiatura me pueden devolver un pago
+x01,whatsapp,caso_personal,me entere por redes. me cobraron dos veces la colegiatura me pueden devolver un pago gracias.
+x01,formulario,caso_personal,"Hola, Me cobraron dos veces la colegiatura ¿me pueden devolver un pago? mi cel <telefono>"
+x01,formulario,caso_personal,"Soy <nombre>, aspirante. Me cobraron dos veces la colegiatura ¿me pueden devolver un pago? Quedo atento."
+x01,correo,caso_personal,"Hola, Me cobraron dos veces la colegiatura ¿me pueden devolver un pago? Mi matrícula es <matricula>."
+x02,correo,caso_personal,Trabajo tiempo completo y No me aparece mi calificación final en el sistema Mi matrícula es <matricula>.
+x02,whatsapp,caso_personal,"Hola, No me aparece mi caliifcacion final en el sistema Gracias."
+x02,correo,caso_personal,"Hola, No me aparece mi calificación final en el sistema mi cel <telefono>"
+x02,correo,caso_personal,Una pregunta: No me aparece mi calificación final en el sistema Gracias.
+x02,correo,caso_personal,No me aparece mi calificación final en el sistema Quedo atento.
+x02,correo,caso_personal,"Soy <nombre>, aspiratne. No me aparece mi calificación final en el sistema Mi matrícula es <matricula>."
+x02,correo,caso_personal,"Hola, No me aparece mi calificación final en el sistema Mi correo es <correo>"
+x02,whatsapp,caso_personal,"hola, no me aparece mi calificacion final en el sistema mi matricula es <matricula>."
+x02,correo,caso_personal,"Disculpe, No me aparece mi calificación final en el sistema Gracias."
+x02,whatsapp,caso_personal,"disculpe, no me aparece mi calificación fina len el sistema mi matrícula es <matricula>."
+x02,formulario,caso_personal,"Disculpe, No me aparece mi calificación final en el sistema Mi correo es <correo>"
+x03,correo,caso_personal,"buen dia, me llamo carlos preez. quiero dar de baja una materia porque tuve un problema de salud gracias."
+x03,formulario,caso_personal,Quiero dar de baja una materia porque tuve un problema de salud mi cel <telefono>
+x03,correo,caso_personal,Una pregunta: Quiero dar de baja una materia porque tuve un problema de salud Gracias.
+x03,formulario,caso_personal,Me enteré por redes. Quiero dar de baja una materia porque tuve un problema de salud Gracias.
+x03,correo,caso_personal,Una pregunta: Quiero dar de baja una materia porque tuve un problema de salud
+x03,correo,caso_personal,"Disculpe, Quiero dar de baja una materia porque tuve un problema de salud Mi correo es <correo>"
+x03,formulario,caso_personal,"Soy <nombre>, aspirante. Quiero dar de baja una materia porque tuve un problema de salud Mi correo es <correo>"
+x03,formulario,caso_personal,"Soy <nombre>, aspirante. Quiero dar de baja una materia porque tuve un problema de salud Saludos, <nombre>."
+x03,formulario,caso_personal,Buenas tardes. Quiero dar de baja una materia porque tuve un problema de salud Quedo atento.
+x03,correo,caso_personal,Me entere por redes. Quiero dar de baja una materia porque tuve un problema de salud Mi correo es <correo>
+x03,correo,caso_personal,"Soy <nombre>, aspirante. Quiero dar de baja una materia porque tuve un problema de salud"
+x04,formulario,caso_personal,"Soy alumno, Mi beca no se aplicó en mi estado de cuenta Mi correo es <correo>"
+x04,whatsapp,caso_personal,Me enteré por redes. Mi beca no se aplicó en mi estado de cuenta Mi correo es <correo>
+x04,correo,caso_personal,"Soy <nombre>, aspirante. Mi beca no se aplicó en mi estado de cuenta Mi correo es <correo>"
+x04,whatsapp,caso_personal,Mi beca no se aplico en mi estadod e cuenta mi cel <telefono>
+x04,correo,caso_personal,Buena stardes. Mi beca no se aplicó en mi estado de cuenta Mi matrícula es <matricula>.
+x04,whatsapp,caso_personal,una pregunta: mi beca no se aplico en mi estado de cuenta
+x04,formulario,caso_personal,"Soy alumno, Mi beca no se aplicó en mi estado de cuenta Saludos, <nombre>."
+x04,formulario,caso_personal,Mi beca no se aplicó en mi estado de cuenta Mi correo es <correo>
+x04,correo,caso_personal,me entere por redes. mi beca no se aplico en mi estado de cuenta mi cel <telefono>
+x04,formulario,caso_personal,"Soy alumno, Mi beca no se aplicó en mi estado de cuenta Quedo atento."
+x04,formulario,caso_personal,"Soy <nombre>, aspirante. Mi beca no se aplicó en mi estado de cuenta Mi matrícula es <matricula>."
+x04,correo,caso_personal,"Soy <nombre>, aspiratne. Mi beca no se aplico en mi estado de cuenta Saludos, <nombre>."
+x05,correo,caso_personal,"soy mariana ruiz, aspirante. me rechazaron la solicitud y quiero saber por q gracias."
+x05,formulario,caso_personal,"Soy alumno, Me rechazaron la solicitud y quiero saber por qué Mi matrícula es <matricula>."
+x05,correo,caso_personal,buenas tardes. me rechazaron la solicitud y quiero saber por qué quedo atento.
+x05,whatsapp,caso_personal,"Soy <nombre>, aspirante. Me rechazaron la solicitud y quiero saber por qué Mi correo es <correo>"
+x05,whatsapp,caso_personal,me entere por redes. me rechazaron la solicitud y quiero saber por que mi correo es <correo>
+x05,correo,caso_personal,"Soy <nombre>, aspirante. Me rechazaron la solicitud y quiero saber por qué Gracias."
+x05,correo,caso_personal,"Buen día, me llamo <nombre>. Me rechazaron la solicitud y quiero saber por qué Gracias."
+x05,formulario,caso_personal,"Buen día, me llamo <nombre>. Me rechazaron la solicitud y quiero saber por qué Saludos, <nombre>."
+x05,correo,caso_personal,Trabajo tiempo completo y Me rechazaron la solicitud y quiero saber por qué Mi correo es <correo>
+x05,correo,caso_personal,Buenas tardes. Me rechazaron la solicitud y quiero saber por qué
+x05,correo,caso_personal,"Disculpe, Me rechazaron la solicitud y quiero saber por qué Gracias."
+x05,whatsapp,caso_personal,Buenas tardes. Me rechazaron la solicitud y quiero saber por qué Quedo atento.
+x06,correo,caso_personal,"Una pregunta: Necesito una prórroga para pagar este mes Saludos, <nombre>."
+x06,correo,caso_personal,"Soy <nombre>, aspirante. Necesito una prórroga para pagar este mes mi cel <telefono>"
+x06,whatsapp,caso_personal,Trabajo tiempo compleot y Necesito una prórroga para pagar este mes
+x06,whatsapp,caso_personal,"Hola, Necesito una prórroga para pagar este mes Quedo atento."
+x06,whatsapp,caso_personal,"Soy alumno, Necesito una prorroga para pagar este mes Saludos, <nombre>."
+x06,formulario,caso_personal,Buenas tardes. Necesito una prórroga para pagar este mes Mi correo es <correo>
+x06,formulario,caso_personal,una pregunta: necesito una prorroga para pagar este mes
+x06,correo,caso_personal,Trabajo tiempo completo y Necesito una prórroga para pagar este mes Mi matrícula es <matricula>.
+x06,formulario,caso_personal,"Buen día, me llamo <nombre>. Necesito una prórroga para pagar este mes Quedo atento."
+x06,correo,caso_personal,buenas tardes. necesito una prorroga para pagar este mes quedo atento.
+x06,formulario,caso_personal,Me enteré por redes. Necesito una prórroga para pagar este mes Quedo atento.
+x06,formulario,caso_personal,"Soy alumno, Necesito una prorroga paar pagar este mes Mi matricula es <matricula>."
+x07,whatsapp,caso_personal,"soy mariana ruiz, aspirante. tengo un adeudo que no reconozco me ayudan a revisarlo gracias."
+x07,correo,caso_personal,"Buen día, me llamo <nombre>. Tengo un adeudo que no reconozco ¿me ayudan a revisarlo? Mi correo es <correo>"
+x07,formulario,caso_personal,"Soy alumno, Tengo un adeudo que no reconozco ¿me ayudan a revisarlo?"
+x07,formulario,caso_personal,Tengo un adeudo que no reconozco ¿me ayuadn a revisarlo? Quedo atento.
+x07,whatsapp,caso_personal,buenas tardes. tengo un adeudo que no reconozco me ayudan a revisarlo mi matricula es <matricula>.
+x07,formulario,caso_personal,"Soy alumno, Tengo un adeudo q no reconozco ¿me ayduan a revisarlo? Quedo atento."
+x07,correo,caso_personal,Me enteré por redes. Tengo un adeudo que no reconozco ¿me ayudan a revisarlo? Gracias.
+x07,formulario,caso_personal,"Disculpe, Tengo un adeudo que no reconozco ¿me ayudan a revisalro? Mi correo es <correo>"
+x07,whatsapp,caso_personal,Me enteré por redes. Tengo un adeudo que no reconozco ¿me ayudan a revisarlo? mi cel <telefono>
+x07,correo,caso_personal,"Soy <nombre>, aspirante. Tengo un adeudo que no reconozco ¿me ayudan a revisarlo? Mi matrícula es <matricula>."
+x07,whatsapp,caso_personal,tengo un adeudo q no reconozco me ayudan a revisarlo m icel <telefono>
+x07,formulario,caso_personal,"Tengo un adeudo que no reconozco ¿me ayudan a revisarlo? Saludos, <nombre>."
+x08,formulario,caso_personal,Una pregunta: Quiero apelar la calificación de mi proyecto
+x08,correo,caso_personal,Una pregunta: Quiero apelar la calificación de mi proyecto Quedo atento.
+x08,correo,caso_personal,"Soy alumno, Quiero apelar la calificación de mi proyecto mi cel <telefono>"
+x08,whatsapp,caso_personal,"buen dia, me llamo carlos perez. quiero apelar la calificacion de mi proyecto gracias."
+x08,formulario,caso_personal,"Soy alumno, Quiero apelar la calificación de mi proyecto Mi correo es <correo>"
+x08,formulario,caso_personal,buenas tardes. quiero apelar la calificacion de mi proyecto gracias.
+x08,correo,caso_personal,"Disculpe, Quiero apelar la calificación de mi proyecto Mi matrícula es <matricula>."
+x08,whatsapp,caso_personal,Trabajo tiempo completo y Quiero apelar la calificación de mi proyecto Mi matrícula es <matricula>.
+x08,correo,caso_personal,"Buen día, me llamo <nombre>. Quiero apelar la calificación de mi proyecto mi cel <telefono>"
+x08,correo,caso_personal,quiero apelar la calificacion de im proyecto quedo atento.
+x09,correo,caso_personal,"Soy alumno, No puedo entrar a mi cuenta del portal de alumnos mi cel <telefono>"
+x09,correo,caso_personal,"Soy alumno, No puedo entrar a mi cuenta del portal de alumnos Mi correo es <correo>"
+x09,whatsapp,caso_personal,no puedo entrar a mi cuenta del portal de alumnos gracias.
+x09,correo,caso_personal,"Hola, No puedo entrar a mi cuenta del portal de alumnos Quedo atento."
+x09,correo,caso_personal,"Soy <nombre>, aspirante. No puedo entrar a mi cuenta del portal de alumnos Saludos, <nombre>."
+x09,correo,caso_personal,Me enteré por redes. No puedo entrar a mi cuenta del portal de alumnos Quedo atento.
+x09,correo,caso_personal,Trabajo tiempo completo y No puedo entrar a mi cuenta del portal de alumnos Mi correo es <correo>
+x09,whatsapp,caso_personal,Buenas tardes. No puedo entrar a mi cuenta del portal de alumnos Gracias.
+x09,whatsapp,caso_personal,"Disculpe, No puedo entrar a mi cuenta del portal de alumnos Mi matricula es <matricula>."
+x09,formulario,caso_personal,"Buenas tardes. No puedo entrar a mi cuenta del portal de alumnos Saludos, <nombre>."
+x09,whatsapp,caso_personal,"Disculpe, No puedo entrar a mi cuenta del portal de alumnos Mi correo es <correo>"
+x10,formulario,caso_personal,"Disculpe, Envié mis documentos hace dos semanas y no me han contestado Quedo atento."
+x10,formulario,caso_personal,"hola, envié mis documentos hace dos semanas y no me han contestado"
+x10,correo,caso_personal,"Soy <nombre>, aspirante. Envié mis documentos hace dos semanas y no me han contestado Mi matrícula es <matricula>."
+x10,correo,caso_personal,"Soy alumno, Envié mis documentos hace dos semanas y no me han contestado Mi matrícula es <matricula>."
+x10,whatsapp,caso_personal,Buenas tardes. Envie mis documentos hace dos semanas y no me han contestado Quedo atento.
+x10,formulario,caso_personal,"Buen dia, me llamo <nombre>. Envie mis documento shace dos semanas y no me han contestado Quedo atento."
+x10,formulario,caso_personal,Envié mis documentos hace dos semanas y no me han contestado
+x10,whatsapp,caso_personal,"Soy <nombre>, aspirante. Envie mis documentos hace dos semanas y no me han contestado"
+x10,whatsapp,caso_personal,me entere por redes. envie mis documentos hace dos semanas y no me han contestado
+x10,correo,caso_personal,Me enteré por redes. Envié mis documentos hace dos semanas y no me han contestado Mi correo es <correo>
+x10,whatsapp,caso_personal,Me entere por redes. Envie mis documentos hace dos semanas y no me han contestado
+x10,whatsapp,caso_personal,"Hola, Envié mis documentos hace dos semanas y no me han contestado Quedo atento."

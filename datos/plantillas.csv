@@ -1,0 +1,91 @@
+intencion,plantilla,texto
+requisitos,r01,¿Cuáles son los requisitos de admisión para la maestría?
+requisitos,r02,¿Qué documentos necesito para inscribirme al posgrado?
+requisitos,r03,¿Piden examen de admisión o algún puntaje mínimo?
+requisitos,r04,¿Necesito título de licenciatura o basta con la carta de pasante?
+requisitos,r05,¿Qué nivel de inglés me piden para entrar?
+requisitos,r06,¿Tengo que presentar cartas de recomendación?
+requisitos,r07,¿Cuál es el promedio mínimo que piden para ser admitido?
+requisitos,r08,¿Qué necesito entregar para aplicar a la maestría en línea?
+requisitos,r09,¿Me piden entrevista como parte del proceso de admisión?
+requisitos,r10,¿Puedo aplicar si mi licenciatura es de otra área?
+costos,c01,¿Cuánto cuesta la maestría completa?
+costos,c02,¿Cuál es el costo por materia?
+costos,c03,¿Tienen becas o descuentos para egresados?
+costos,c04,¿Se puede pagar en mensualidades?
+costos,c05,¿Cuánto es la cuota de inscripción?
+costos,c06,¿Qué porcentaje de beca dan por convenio empresarial?
+costos,c07,¿Aceptan pago con tarjeta o solo transferencia?
+costos,c08,¿Hay financiamiento para pagar el posgrado?
+costos,c09,¿Cuánto cuesta cada periodo?
+costos,c10,¿Cómo solicito una beca académica?
+plan_estudios,p01,¿Qué materias lleva la maestría?
+plan_estudios,p02,¿Cuántos créditos tiene el plan de estudios?
+plan_estudios,p03,¿Cuánto dura el programa?
+plan_estudios,p04,¿Tienen materias optativas o especialidades?
+plan_estudios,p05,¿El plan incluye proyecto final o tesis?
+plan_estudios,p06,¿Cuántas materias se llevan por periodo?
+plan_estudios,p07,¿Dónde puedo ver el plan de estudios completo?
+plan_estudios,p08,¿Qué temas se ven en la maestría de inteligencia artificial?
+plan_estudios,p09,¿El programa tiene RVOE?
+plan_estudios,p10,¿En cuántos trimestres termino la maestría?
+fechas,f01,¿Cuándo abre la próxima convocatoria?
+fechas,f02,¿Cuál es la fecha límite para entregar documentos?
+fechas,f03,¿Cuándo empiezan las clases del siguiente periodo?
+fechas,f04,¿Hasta qué día puedo inscribirme?
+fechas,f05,¿Cuándo publican los resultados de admisión?
+fechas,f06,¿Qué fechas tiene el calendario escolar?
+fechas,f07,¿Cuándo es el examen de admisión?
+fechas,f08,¿Todavía estoy a tiempo de entrar este periodo?
+fechas,f09,¿Cada cuándo hay ingreso a la maestría?
+fechas,f10,¿Cuál es el último día de pago de la inscripción?
+constancias,k01,¿Cómo solicito una constancia de estudios?
+constancias,k02,¿Cuánto tarda en salir un certificado parcial?
+constancias,k03,Necesito una constancia para mi trabajo ¿dónde la pido?
+constancias,k04,¿Cuánto cuesta el certificado de calificaciones?
+constancias,k05,¿Puedo pedir la constancia en línea?
+constancias,k06,¿Qué trámite sigo para obtener mi kárdex?
+constancias,k07,¿La constancia lleva firma electrónica?
+constancias,k08,¿Cómo tramito mi título de maestría?
+constancias,k09,¿Me dan constancia de inscripción para la beca de mi empresa?
+constancias,k10,¿Dónde descargo mi boleta de calificaciones?
+modalidad,m01,¿La maestría es en línea o presencial?
+modalidad,m02,¿Qué horario tienen las clases?
+modalidad,m03,¿Las sesiones son en vivo o grabadas?
+modalidad,m04,¿Puedo estudiar mientras trabajo tiempo completo?
+modalidad,m05,¿Las clases son entre semana o en fin de semana?
+modalidad,m06,¿Cuántas horas a la semana se le dedica?
+modalidad,m07,¿Hay que ir al campus en algún momento?
+modalidad,m08,¿Qué plataforma usan para las clases?
+modalidad,m09,¿Puedo cambiarme de modalidad presencial a en línea?
+modalidad,m10,¿Las clases síncronas son obligatorias?
+seriacion,s01,¿Qué materias están seriadas?
+seriacion,s02,¿Puedo llevar una materia sin haber aprobado la anterior?
+seriacion,s03,¿Cuál es el prerrequisito de la materia de aprendizaje automático?
+seriacion,s04,¿En qué orden se deben cursar las materias?
+seriacion,s05,¿Puedo adelantar materias del siguiente periodo?
+seriacion,s06,Si repruebo una materia ¿me atrasa las seriadas?
+seriacion,s07,¿Hay materias que se tengan que llevar juntas?
+seriacion,s08,¿Puedo inscribir la materia avanzada sin la de fundamentos?
+seriacion,s09,¿Qué pasa si no llevo las materias en el orden del plan?
+seriacion,s10,¿La seriación es obligatoria o me la pueden dispensar?
+revalidacion,v01,¿Puedo revalidar materias de otra maestría?
+revalidacion,v02,¿Cómo funciona el proceso de equivalencia de estudios?
+revalidacion,v03,¿Cuántas materias me pueden revalidar como máximo?
+revalidacion,v04,¿Qué documentos necesito para la revalidación?
+revalidacion,v05,¿Cuánto cuesta el trámite de equivalencia?
+revalidacion,v06,Estudié un diplomado ¿cuenta para revalidar materias?
+revalidacion,v07,¿Revalidan materias cursadas en el extranjero?
+revalidacion,v08,¿Cuánto tarda el dictamen de revalidación?
+revalidacion,v09,¿Puedo pedir equivalencia después de inscribirme?
+revalidacion,v10,¿Las materias revalidadas cuentan para el promedio?
+caso_personal,x01,Me cobraron dos veces la colegiatura ¿me pueden devolver un pago?
+caso_personal,x02,No me aparece mi calificación final en el sistema
+caso_personal,x03,Quiero dar de baja una materia porque tuve un problema de salud
+caso_personal,x04,Mi beca no se aplicó en mi estado de cuenta
+caso_personal,x05,Me rechazaron la solicitud y quiero saber por qué
+caso_personal,x06,Necesito una prórroga para pagar este mes
+caso_personal,x07,Tengo un adeudo que no reconozco ¿me ayudan a revisarlo?
+caso_personal,x08,Quiero apelar la calificación de mi proyecto
+caso_personal,x09,No puedo entrar a mi cuenta del portal de alumnos
+caso_personal,x10,Envié mis documentos hace dos semanas y no me han contestado
